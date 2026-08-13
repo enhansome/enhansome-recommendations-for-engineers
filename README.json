@@ -1,0 +1,1990 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🌐 Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uBlock Origin",
+          "description": "← blocker addon (not only for ads)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T17:11:49Z",
+            "owner": "gorhill",
+            "repo": "uBlock",
+            "stars": 66935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisBug",
+          "description": "← FireBug for designers - edit any webpage, in any state",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T01:35:42Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "ProjectVisBug",
+            "stars": 5766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refined Twitter",
+          "description": "← simplify Twitter UI and add useful features",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-23T18:29:25Z",
+            "owner": "sindresorhus",
+            "repo": "refined-twitter",
+            "stars": 1297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Web IDE",
+          "description": "← add a new drop-down menu to any GitHub repository to browse the source code in a number of online IDEs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-06T13:26:22Z",
+            "owner": "zvizvi",
+            "repo": "GitHub-Web-IDE",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git History Browser Extension",
+          "description": "← add \"Open in Git History\" button to GitHub repos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-18T00:47:13Z",
+            "owner": "LuisReinoso",
+            "repo": "git-history-browser-extension",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "💾 Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💼 Business"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👾 Cybersecurity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📊 Data Science"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Public Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tencent ML-Images",
+          "description": "← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-20T07:00:12Z",
+            "owner": "Tencent",
+            "repo": "tencent-ml-images",
+            "stars": 3065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematics Dataset",
+          "description": "← generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-23T14:21:10Z",
+            "owner": "google-deepmind",
+            "repo": "mathematics_dataset",
+            "stars": 1962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goodbooks-10k",
+          "description": "← new dataset for book recommendations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-17T18:52:16Z",
+            "owner": "zygmuntz",
+            "repo": "goodbooks-10k",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "VQA",
+          "description": "← 200k+ images and over a million questions (with answers) about those images",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "easy-VQA",
+              "description": "← simpler version of the original VQA dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-03T21:39:31Z",
+                "owner": "vzhou842",
+                "repo": "easy-VQA",
+                "stars": 34
+              }
+            }
+          ]
+        }
+      ],
+      "title": "datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "data-science-ipython-notebooks",
+          "description": "← learn data science from IPython notebooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T13:52:34Z",
+            "owner": "donnemartin",
+            "repo": "data-science-ipython-notebooks",
+            "stars": 29305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning Study Path March 2019",
+          "description": "← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-14T17:32:44Z",
+            "owner": "virgili0",
+            "repo": "Virgilio",
+            "stars": 14935
+          }
+        }
+      ],
+      "title": "learning material"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Peek",
+          "description": "← animated GIF recorder for Linux",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-09-24T14:09:08Z",
+            "owner": "phw",
+            "repo": "peek",
+            "stars": 10559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termtosvg",
+          "description": "← record terminal sessions as SVG animations",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-06-16T11:01:41Z",
+            "owner": "nbedos",
+            "repo": "termtosvg",
+            "stars": 9760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xxh",
+          "description": "← bring your favorite shell wherever you go through ssh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UserLAnd",
+          "description": "← run a Linux distribution or application on Android (without root)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T19:11:37Z",
+            "owner": "CypherpunkArmory",
+            "repo": "UserLAnd",
+            "stars": 4253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "instantbox",
+          "description": "← spin up temporary Linux systems with instant webshell access from any browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-12T06:42:40Z",
+            "owner": "instantbox",
+            "repo": "instantbox",
+            "stars": 4176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cassowary",
+          "description": "← run Windows applications on Linux as if they are native",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-28T17:24:05Z",
+            "owner": "casualsnek",
+            "repo": "cassowary",
+            "stars": 3565
+          }
+        }
+      ],
+      "title": "🐧 Linux"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "← CLI fuzzy finder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "← cat(1) clone with wings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starship",
+          "description": "← prompt for any shell (customize it, e.g. to disable the package module)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T03:49:25Z",
+            "owner": "starship",
+            "repo": "starship",
+            "stars": 59383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "← better alternative to",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nushell",
+          "description": "← new type of shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:44:40Z",
+            "owner": "nushell",
+            "repo": "nushell",
+            "stars": 40256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-autosuggestions",
+          "description": "← fish-like autosuggestions for Zsh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-24T16:15:03Z",
+            "owner": "zsh-users",
+            "repo": "zsh-autosuggestions",
+            "stars": 35967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Unix",
+          "description": "← collection of modern/faster/saner alternatives to common unix commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-10T19:48:56Z",
+            "owner": "ibraheemdev",
+            "repo": "modern-unix",
+            "stars": 33012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neofetch",
+          "description": "← CLI tool to display information about your OS in an aesthetic way",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-07-19T20:19:01Z",
+            "owner": "dylanaraps",
+            "repo": "neofetch",
+            "stars": 23716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-syntax-highlighting",
+          "description": "← Fish-shell-like syntax highlighting for Zsh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T19:11:51Z",
+            "owner": "zsh-users",
+            "repo": "zsh-syntax-highlighting",
+            "stars": 22922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "← modern replacement for",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "broot",
+          "description": "← new way to see and navigate directory trees",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:56:09Z",
+            "owner": "Canop",
+            "repo": "broot",
+            "stars": 12890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htop",
+          "description": "← interactive process viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:41:31Z",
+            "owner": "htop-dev",
+            "repo": "htop",
+            "stars": 8245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tealdeer",
+          "description": "← very fast implementation of tldr in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:48:40Z",
+            "owner": "tealdeer-rs",
+            "repo": "tealdeer",
+            "stars": 6417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outrun",
+          "description": "← execute a local command using the processing power of another Linux machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T20:32:43Z",
+            "owner": "Overv",
+            "repo": "outrun",
+            "stars": 3134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "howdoi",
+          "description": "← get quick answers to common linux related questions, right inside your terminal by typing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-23T19:21:32Z",
+            "owner": "san-kumar",
+            "repo": "howdoi",
+            "stars": 425
+          }
+        }
+      ],
+      "title": "shell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "← CLI JSON processor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:02:39Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sops",
+          "description": "← tool for managing secrets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:27:27Z",
+            "owner": "getsops",
+            "repo": "sops",
+            "stars": 22793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-cli",
+          "description": "← official Amazon AWS command-line interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:14:40Z",
+            "owner": "aws",
+            "repo": "aws-cli",
+            "stars": 17180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yq",
+          "description": "← command-line YAML, JSON and XML processor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T03:55:00Z",
+            "owner": "mikefarah",
+            "repo": "yq",
+            "stars": 15822
+          }
+        }
+      ],
+      "title": "devops/mlops"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Auto-GPT",
+          "description": "← experimental open-source attempt to make GPT-4 fully autonomous",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:56:46Z",
+            "owner": "Significant-Gravitas",
+            "repo": "AutoGPT",
+            "stars": 186582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "← framework for building LLM apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:33:38Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDevin",
+          "description": "← open-source project aiming to replicate Devin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:44:22Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screenshot-to-code",
+          "description": "← drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T15:18:05Z",
+            "owner": "abi",
+            "repo": "screenshot-to-code",
+            "stars": 74006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Interpreter",
+          "description": "← NLP interface terminal app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T19:04:44Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 67995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docling",
+          "description": "← parse documents and export them to the desired format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:48:51Z",
+            "owner": "docling-project",
+            "repo": "docling",
+            "stars": 64708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGen",
+          "description": "← enable next-gen large language model applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "privateGPT",
+          "description": "← interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:36:47Z",
+            "owner": "zylon-ai",
+            "repo": "private-gpt",
+            "stars": 57432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crewAI",
+          "description": "← framework for orchestrating role-playing, autonomous AI agents (e.g. to plan trip)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:42:05Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpt-engineer",
+          "description": "← generate an entire codebase based on a prompt",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-14T10:15:10Z",
+            "owner": "AntonOsika",
+            "repo": "gpt-engineer",
+            "stars": 55148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aider",
+          "description": "← AI pair programming in your terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jan",
+          "description": "← open-source alternative to ChatGPT that runs locally",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:54:41Z",
+            "owner": "janhq",
+            "repo": "jan",
+            "stars": 43993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "← self-hosted AI coding assistant (e.g. to be used in VS Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T20:38:02Z",
+            "owner": "TabbyML",
+            "repo": "tabby",
+            "stars": 33822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Pilot",
+          "description": "← dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T18:38:25Z",
+            "owner": "Pythagora-io",
+            "repo": "gpt-pilot",
+            "stars": 33700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cursor",
+          "description": "← AI-powered code editor based on VS Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-12T15:25:06Z",
+            "owner": "cursor",
+            "repo": "cursor",
+            "stars": 33105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storm",
+          "description": "← LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-30T18:07:21Z",
+            "owner": "stanford-oval",
+            "repo": "storm",
+            "stars": 30961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OfficeCLI",
+          "description": "← Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T10:28:53Z",
+            "owner": "iOfficeAI",
+            "repo": "OfficeCLI",
+            "stars": 28102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandas-ai",
+          "description": "← generative AI in Pandas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T10:02:13Z",
+            "owner": "sinaptik-ai",
+            "repo": "pandas-ai",
+            "stars": 23740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyvern",
+          "description": "← automate browser-based workflows with LLMs and Computer Vision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:19:06Z",
+            "owner": "Skyvern-AI",
+            "repo": "skyvern",
+            "stars": 22742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenUI",
+          "description": "← OpenUI let's you describe UI using your imagination, then see it rendered live",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T06:56:46Z",
+            "owner": "wandb",
+            "repo": "openui",
+            "stars": 22500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "localGPT",
+          "description": "← private and local chatGPT for chatting with your documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:15:01Z",
+            "owner": "PromtEngineer",
+            "repo": "localGPT",
+            "stars": 22207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guidance",
+          "description": "← preferred over Langchain by Szymon Maszke",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-21T17:08:04Z",
+            "owner": "guidance-ai",
+            "repo": "guidance",
+            "stars": 21712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-agent",
+          "description": "← takes a GitHub issue and tries to automatically fix it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:08:15Z",
+            "owner": "SWE-agent",
+            "repo": "SWE-agent",
+            "stars": 20055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocsGPT",
+          "description": "← chat with your documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:00:53Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ragas",
+          "description": "← objective metrics, intelligent test generation, and data-driven insights for LLM apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T07:47:19Z",
+            "owner": "vibrantlabsai",
+            "repo": "ragas",
+            "stars": 15300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainlit",
+          "description": "← UI for chatbots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:11:47Z",
+            "owner": "Chainlit",
+            "repo": "chainlit",
+            "stars": 12380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2oGPT",
+          "description": "← world's best open source GPT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-10-09T23:30:01Z",
+            "owner": "h2oai",
+            "repo": "h2ogpt",
+            "stars": 11974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TaskWeaver",
+          "description": "← code-first agent framework for seamlessly planning and executing data analytics tasks",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-23T06:17:21Z",
+            "owner": "microsoft",
+            "repo": "TaskWeaver",
+            "stars": 6177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ODS",
+          "description": "← turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:35:33Z",
+            "owner": "Osmantic",
+            "repo": "ODS",
+            "stars": 4188
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Claude Code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mattpocock/skills",
+              "description": "← skills for real engineers from .claude directory",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-13T09:06:37Z",
+                "owner": "mattpocock",
+                "repo": "skills",
+                "stars": 215847
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "andrej-karpathy-skills",
+              "description": "← a single CLAUDE.md file from Andrej Karpathy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-04-20T10:05:04Z",
+                "owner": "multica-ai",
+                "repo": "andrej-karpathy-skills",
+                "stars": 202051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ponytail",
+              "description": "← makes your AI agent think like the laziest senior dev in the room",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T21:44:01Z",
+                "owner": "DietrichGebert",
+                "repo": "ponytail",
+                "stars": 101861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "caveman",
+              "description": "← Claude Code skill to keep short responses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T00:29:06Z",
+                "owner": "JuliusBrussee",
+                "repo": "caveman",
+                "stars": 97906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-mem",
+              "description": "← persistent context across sessions for every agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T01:59:22Z",
+                "owner": "thedotmack",
+                "repo": "claude-mem",
+                "stars": 90610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "codegraph",
+              "description": "← pre-indexed code knowledge graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-08T02:56:05Z",
+                "owner": "colbymchenry",
+                "repo": "codegraph",
+                "stars": 66232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-token-efficient",
+              "description": "← one CLAUDE.md file to keep short responses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-16T03:10:06Z",
+                "owner": "drona23",
+                "repo": "claude-token-efficient",
+                "stars": 5941
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "ScrapeGraphAI",
+          "description": "← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)",
+          "children": []
+        }
+      ],
+      "title": "🤖 LLM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zed",
+          "description": "← open-source code editor written in Rust (my replacement for Sublime Text)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:33:27Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 88558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lima",
+          "description": "← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:46:03Z",
+            "owner": "lima-vm",
+            "repo": "lima",
+            "stars": 21671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mas",
+          "description": "← Mac App Store command line interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T15:04:58Z",
+            "owner": "mas-cli",
+            "repo": "mas",
+            "stars": 12294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sloth",
+          "description": "← show all open files, directories, sockets, pipes and devices in use by all running processes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-05-28T19:11:15Z",
+            "owner": "sveinbjornt",
+            "repo": "Sloth",
+            "stars": 8930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeetingBar",
+          "description": "← menu bar calendar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T12:36:21Z",
+            "owner": "leits",
+            "repo": "MeetingBar",
+            "stars": 5300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnnaturalScrollWheels",
+          "description": "← invert scroll direction for mouse & trackpad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T17:14:35Z",
+            "owner": "ther0n",
+            "repo": "UnnaturalScrollWheels",
+            "stars": 4179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTerm2",
+          "description": "← better terminal (you can find my settings here)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-30T19:10:54Z",
+            "owner": "pyxelr",
+            "repo": "my-terminal",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warp",
+          "description": "← modern terminal reimagined with AI (you can find my settings here)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-30T19:10:54Z",
+            "owner": "pyxelr",
+            "repo": "my-terminal",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "espanso",
+          "description": "← cross-platform text expander (you can find my settings here)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T14:11:10Z",
+            "owner": "pyxelr",
+            "repo": "my-espanso-config",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "DevUtils",
+          "description": "← all-in-one toolbox for developers",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DevToysMac",
+              "description": "← free alternative",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Swift",
+                "last_commit": "2024-05-03T04:09:41Z",
+                "owner": "DevToys-app",
+                "repo": "DevToysMac",
+                "stars": 9205
+              }
+            }
+          ]
+        }
+      ],
+      "title": "🍎 macOS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "➗ Math"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter",
+          "description": "← build apps quick and easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T11:01:16Z",
+            "owner": "flutter",
+            "repo": "flutter",
+            "stars": 178383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube ReVanced",
+          "description": "← official replacement for YouTube Vanced",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-29T18:18:23Z",
+            "owner": "ReVanced",
+            "repo": "revanced-manager",
+            "stars": 28977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seal",
+          "description": "← yt-dlp as an Android app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T15:49:47Z",
+            "owner": "JunkFood02",
+            "repo": "Seal",
+            "stars": 28155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMKV",
+          "description": "← efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T07:00:20Z",
+            "owner": "Tencent",
+            "repo": "MMKV",
+            "stars": 18700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile Verification Toolkit",
+          "description": "← forensic tool to look for signs of infection in smartphone devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:20:13Z",
+            "owner": "mvt-project",
+            "repo": "mvt",
+            "stars": 12865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MACE",
+          "description": "← mobile AI compute engine (deep learning inference framework optimized for mobile heterogeneous computing platforms)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-17T09:17:33Z",
+            "owner": "XiaoMi",
+            "repo": "mace",
+            "stars": 5045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UserLAnd",
+          "description": "← run a Linux distribution or application on Android (without root)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T19:11:37Z",
+            "owner": "CypherpunkArmory",
+            "repo": "UserLAnd",
+            "stars": 4253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tool-X",
+          "description": "← kali linux hacking Tool installer (requires Termux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-05T11:30:45Z",
+            "owner": "hazardsecurity-1",
+            "repo": "Rajkumardusad-",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paprika",
+          "description": "← toolkit to detect some code smells in analysed Android applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-07-23T19:07:35Z",
+            "owner": "GeoffreyHecht",
+            "repo": "paprika",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnkiDroid Flashcards",
+          "description": "← learn any topic using active learning and spaced repetition. Make sure to check out my own decks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-03T21:50:52Z",
+            "owner": "pyxelr",
+            "repo": "my-anki-decks-of-flashcards",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Termux",
+          "description": "← Android terminal emulator and Linux environment app (my setup)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-30T19:10:54Z",
+            "owner": "pyxelr",
+            "repo": "my-terminal",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "📱 Mobile Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎶 Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spleeter",
+          "description": "← extract acapella from the song using AI (demonstration video)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T15:22:32Z",
+            "owner": "deezer",
+            "repo": "spleeter",
+            "stars": 28370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepJ",
+          "description": "← AI to compose piano music in real-time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-30T18:28:01Z",
+            "owner": "calclavia",
+            "repo": "DeepJ",
+            "stars": 743
+          }
+        }
+      ],
+      "title": "tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Newsletters",
+          "description": "← curated list of awesome newsletters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T18:23:06Z",
+            "owner": "zudochkin",
+            "repo": "awesome-newsletters",
+            "stars": 4447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Trending Repos",
+          "description": "← subscribe to weekly/daily sets of trending repositories from different languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-23T14:16:02Z",
+            "owner": "vitalets",
+            "repo": "github-trending-repos",
+            "stars": 2989
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Hacker News Daily",
+          "description": "← daily newsletter of best posts from Hacker News with AI summarizations",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hackernews-daily-digest",
+              "description": "← my free, self-hosted recreation of it (GitHub Actions + Gemini + Gmail SMTP), built after the original stopped working",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-22T00:14:04Z",
+                "owner": "pyxelr",
+                "repo": "hackernews-daily-digest",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "📧 Newsletters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎧 Podcasts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ActivityWatch",
+          "description": "← open-source time tracker (alternative to RescueTime)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T13:30:48Z",
+            "owner": "ActivityWatch",
+            "repo": "activitywatch",
+            "stars": 18572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focus Sounds",
+          "description": "← navigate to the \"Music\" section of this list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T14:39:10Z",
+            "owner": "pyxelr",
+            "repo": "recommendations-for-engineers",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "⏲ Productivity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "online tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Build your own X",
+          "description": "← resources to start developing your first website, database; you name it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding Interview University",
+          "description": "← complete computer science study plan to become a software engineer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 358599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript Algorithms and Data Structures",
+          "description": "← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Every Programmer Should Know",
+          "description": "← collection of (mostly) technical things every software developer should know",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-29T19:37:02Z",
+            "owner": "mtdvio",
+            "repo": "every-programmer-should-know",
+            "stars": 100247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A to Z Resources for Students",
+          "description": "← find even more resources to learn software engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-17T14:00:26Z",
+            "owner": "dipakkr",
+            "repo": "A-to-Z-Resources-for-Students",
+            "stars": 22162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Games of Coding",
+          "description": "← curated list of games that can teach you how to learn a programming language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-25T03:16:25Z",
+            "owner": "michelpereira",
+            "repo": "awesome-games-of-coding",
+            "stars": 2137
+          }
+        }
+      ],
+      "title": "websites to study from"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PowerToys",
+          "description": "← Windows system utilities to maximize productivity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:29:27Z",
+            "owner": "microsoft",
+            "repo": "PowerToys",
+            "stars": 137720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows Terminal",
+          "description": "← modern terminal application (you can find my settings here)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T12:00:39Z",
+            "owner": "microsoft",
+            "repo": "terminal",
+            "stars": 104594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oh My Posh",
+          "description": "← prompt theme engine for any shell. Alternatively, use Starship",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T03:49:25Z",
+            "owner": "starship",
+            "repo": "starship",
+            "stars": 59383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExplorerPatcher",
+          "description": "← enhance the working environment on Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-06T12:44:31Z",
+            "owner": "valinet",
+            "repo": "ExplorerPatcher",
+            "stars": 33600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickLook",
+          "description": "← bring macOS \"Quick Look\" feature to Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T10:38:27Z",
+            "owner": "QL-Win",
+            "repo": "QuickLook",
+            "stars": 24378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EverythingToolbar",
+          "description": "← Everything integration for the Windows taskbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:17:41Z",
+            "owner": "srwi",
+            "repo": "EverythingToolbar",
+            "stars": 14553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WSLg",
+          "description": "← open GUI software through WSL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T14:32:10Z",
+            "owner": "microsoft",
+            "repo": "wslg",
+            "stars": 11791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simplewall",
+          "description": "← configure Windows Filtering Platform (WFP) which can configure network activity on your computer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T08:23:30Z",
+            "owner": "henrypp",
+            "repo": "simplewall",
+            "stars": 8837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Posh-Git",
+          "description": "← PowerShell environment for Git",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-09-02T15:03:06Z",
+            "owner": "dahlbyk",
+            "repo": "posh-git",
+            "stars": 8259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsudo",
+          "description": "← sudo for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:39:51Z",
+            "owner": "gerardog",
+            "repo": "gsudo",
+            "stars": 6021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clink",
+          "description": "← Bash's powerful command line editing in cmd.exe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T01:56:42Z",
+            "owner": "chrisant996",
+            "repo": "clink",
+            "stars": 5428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supermium",
+          "description": "← Chromium fork for older Windows versions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-14T20:41:02Z",
+            "owner": "win32ss",
+            "repo": "supermium",
+            "stars": 4652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntiMicroX",
+          "description": "← map keyboard buttons and mouse controls to a gamepad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T19:40:03Z",
+            "owner": "AntiMicroX",
+            "repo": "antimicrox",
+            "stars": 3913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UpdateHub",
+          "description": "← tool for detecting and automatically updating software (shows more stuff than Patch My PC)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-07T00:26:48Z",
+            "owner": "NexovaDev",
+            "repo": "UpdateHub",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wsl-vpn",
+          "description": "← workaround script for WSL2 connectivity over VPN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-08T20:56:04Z",
+            "owner": "AmmarRahman",
+            "repo": "wsl-vpn",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoHotkey",
+          "description": "← ultimate automation scripting language for Windows (here is a collection of my scripts)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AutoHotkey",
+            "last_commit": "2024-01-07T19:54:14Z",
+            "owner": "pyxelr",
+            "repo": "my-autohotkey-scripts",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "espanso",
+          "description": "← cross-platform text expander (you can find my settings here)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T14:11:10Z",
+            "owner": "pyxelr",
+            "repo": "my-espanso-config",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "🖥 Windows"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📼 YouTube Channels"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome",
+          "description": "← GitHub repository with lists on all kinds of interesting topics",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-awesome-awesome",
+              "description": "← awesome list of repositories of awesome lists",
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scrcpy",
+          "description": "← display and control Android devices connected on USB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T18:16:07Z",
+            "owner": "Genymobile",
+            "repo": "scrcpy",
+            "stars": 147551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "windows95",
+          "description": "← Windows 95 running in the Electron app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T17:27:01Z",
+            "owner": "felixrieseberg",
+            "repo": "windows95",
+            "stars": 24195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discount-for-student-dev",
+          "description": "← list of student discounts for learning & development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-05T18:28:31Z",
+            "owner": "AchoArnold",
+            "repo": "discount-for-student-dev",
+            "stars": 3338
+          }
+        }
+      ],
+      "title": "🤷 Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:05:36.468Z",
+    "original_repository": "pyxelr/recommendations-for-engineers",
+    "original_repository_sha": "3d4cd16d29479d7d74d4295ec2727061d7b8078a",
+    "enhanced_repository": "enhansome/enhansome-recommendations-for-engineers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Recommendations for Engineers with stars"
+  }
+}
