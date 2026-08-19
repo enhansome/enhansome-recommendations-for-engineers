@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🌐 Blogs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📚 Books"
-    },
-    {
-      "description": "",
+      "description": "⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T15:22:43Z",
+            "last_commit": "2026-08-18T17:11:58Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67048
+            "stars": 67074
           }
         },
         {
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137987910,
             "language": "JavaScript",
             "last_commit": "2026-08-03T01:35:42Z",
             "owner": "GoogleChromeLabs",
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 113491980,
             "language": "JavaScript",
             "last_commit": "2021-01-23T18:29:25Z",
             "owner": "sindresorhus",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338004791,
             "language": "JavaScript",
             "last_commit": "2026-03-06T13:26:22Z",
             "owner": "zvizvi",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169504809,
             "language": "JavaScript",
             "last_commit": "2025-11-18T00:47:13Z",
             "owner": "LuisReinoso",
@@ -87,139 +82,139 @@
       "title": "💾 Browser Extensions"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "💼 Business"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👾 Cybersecurity"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📊 Data Science"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Public Datasets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
-            "owner": "awesomedata",
-            "repo": "awesome-public-datasets",
-            "stars": 78131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tencent ML-Images",
-          "description": "← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-20T07:00:12Z",
-            "owner": "Tencent",
-            "repo": "tencent-ml-images",
-            "stars": 3064
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mathematics Dataset",
-          "description": "← generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-23T14:21:10Z",
-            "owner": "google-deepmind",
-            "repo": "mathematics_dataset",
-            "stars": 1963
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Goodbooks-10k",
-          "description": "← new dataset for book recommendations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-05-17T18:52:16Z",
-            "owner": "zygmuntz",
-            "repo": "goodbooks-10k",
-            "stars": 898
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "VQA",
-          "description": "← 200k+ images and over a million questions (with answers) about those images",
           "children": [
             {
               "node_type": "item",
-              "title": "easy-VQA",
-              "description": "← simpler version of the original VQA dataset",
+              "title": "Awesome Public Datasets",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2023-10-03T21:39:31Z",
-                "owner": "vzhou842",
-                "repo": "easy-VQA",
-                "stars": 34
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78143
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Tencent ML-Images",
+              "description": "← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153042051,
+                "language": "Python",
+                "last_commit": "2022-04-20T07:00:12Z",
+                "owner": "Tencent",
+                "repo": "tencent-ml-images",
+                "stars": 3064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mathematics Dataset",
+              "description": "← generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177970295,
+                "language": "Python",
+                "last_commit": "2024-12-23T14:21:10Z",
+                "owner": "google-deepmind",
+                "repo": "mathematics_dataset",
+                "stars": 1963
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goodbooks-10k",
+              "description": "← new dataset for book recommendations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103417214,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-17T18:52:16Z",
+                "owner": "zygmuntz",
+                "repo": "goodbooks-10k",
+                "stars": 898
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "VQA",
+              "description": "← 200k+ images and over a million questions (with answers) about those images",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "easy-VQA",
+                  "description": "← simpler version of the original VQA dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 217777700,
+                    "language": "Python",
+                    "last_commit": "2023-10-03T21:39:31Z",
+                    "owner": "vzhou842",
+                    "repo": "easy-VQA",
+                    "stars": 34
+                  }
+                }
+              ]
             }
-          ]
-        }
-      ],
-      "title": "datasets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "data-science-ipython-notebooks",
-          "description": "← learn data science from IPython notebooks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-20T13:52:34Z",
-            "owner": "donnemartin",
-            "repo": "data-science-ipython-notebooks",
-            "stars": 29304
-          }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "datasets"
         },
         {
-          "node_type": "item",
-          "title": "Machine Learning Study Path March 2019",
-          "description": "← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-10-14T17:32:44Z",
-            "owner": "virgili0",
-            "repo": "Virgilio",
-            "stars": 14944
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "data-science-ipython-notebooks",
+              "description": "← learn data science from IPython notebooks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29749635,
+                "language": "Python",
+                "last_commit": "2024-03-20T13:52:34Z",
+                "owner": "donnemartin",
+                "repo": "data-science-ipython-notebooks",
+                "stars": 29306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning Study Path March 2019",
+              "description": "← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175276495,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-14T17:32:44Z",
+                "owner": "virgili0",
+                "repo": "Virgilio",
+                "stars": 14946
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "learning material"
         }
       ],
-      "title": "learning material"
+      "title": "📊 Data Science"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -228,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48430079,
             "language": "Vala",
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
@@ -242,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136727471,
             "language": "Python",
             "last_commit": "2020-06-16T11:01:41Z",
             "owner": "nbedos",
@@ -256,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219294494,
             "language": "Python",
             "last_commit": "2026-06-02T04:36:08Z",
             "owner": "xxh",
             "repo": "xxh",
-            "stars": 6071
+            "stars": 6070
           }
         },
         {
@@ -270,11 +268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126059712,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T05:05:25Z",
+            "last_commit": "2026-08-19T00:12:17Z",
             "owner": "CypherpunkArmory",
             "repo": "UserLAnd",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -284,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161278205,
             "language": "Python",
             "last_commit": "2024-03-12T06:42:40Z",
             "owner": "instantbox",
@@ -298,296 +298,318 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415681358,
             "language": "Python",
             "last_commit": "2024-03-28T17:24:05Z",
             "owner": "casualsnek",
             "repo": "cassowary",
-            "stars": 3582
+            "stars": 3581
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fzf",
+              "description": "← CLI fuzzy finder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13807606,
+                "language": "Go",
+                "last_commit": "2026-08-17T03:11:26Z",
+                "owner": "junegunn",
+                "repo": "fzf",
+                "stars": 82579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bat",
+              "description": "← cat(1) clone with wings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130464961,
+                "language": "Rust",
+                "last_commit": "2026-08-11T14:39:20Z",
+                "owner": "sharkdp",
+                "repo": "bat",
+                "stars": 60215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Starship",
+              "description": "← prompt for any shell (customize it, e.g. to disable the package module)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178991158,
+                "language": "Rust",
+                "last_commit": "2026-08-17T16:16:09Z",
+                "owner": "starship",
+                "repo": "starship",
+                "stars": 59478
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fd",
+              "description": "← better alternative to",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90793418,
+                "language": "Rust",
+                "last_commit": "2026-08-11T17:42:55Z",
+                "owner": "sharkdp",
+                "repo": "fd",
+                "stars": 44139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nushell",
+              "description": "← new type of shell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186024298,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:25:11Z",
+                "owner": "nushell",
+                "repo": "nushell",
+                "stars": 40295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zsh-autosuggestions",
+              "description": "← fish-like autosuggestions for Zsh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13886476,
+                "language": "Shell",
+                "last_commit": "2025-06-24T16:15:03Z",
+                "owner": "zsh-users",
+                "repo": "zsh-autosuggestions",
+                "stars": 35993
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modern Unix",
+              "description": "← collection of modern/faster/saner alternatives to common unix commands",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328831244,
+                "language": null,
+                "last_commit": "2024-09-10T19:48:56Z",
+                "owner": "ibraheemdev",
+                "repo": "modern-unix",
+                "stars": 33018
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neofetch",
+              "description": "← CLI tool to display information about your OS in an aesthetic way",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48795298,
+                "language": "Shell",
+                "last_commit": "2024-07-19T20:19:01Z",
+                "owner": "dylanaraps",
+                "repo": "neofetch",
+                "stars": 23708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eza",
+              "description": "← modern replacement for",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671832156,
+                "language": "Rust",
+                "last_commit": "2026-08-06T19:53:22Z",
+                "owner": "eza-community",
+                "repo": "eza",
+                "stars": 22967
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zsh-syntax-highlighting",
+              "description": "← Fish-shell-like syntax highlighting for Zsh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197428,
+                "language": "Shell",
+                "last_commit": "2026-08-07T19:11:51Z",
+                "owner": "zsh-users",
+                "repo": "zsh-syntax-highlighting",
+                "stars": 22936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "broot",
+              "description": "← new way to see and navigate directory trees",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157766521,
+                "language": "Rust",
+                "last_commit": "2026-08-19T07:29:21Z",
+                "owner": "Canop",
+                "repo": "broot",
+                "stars": 12897
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "htop",
+              "description": "← interactive process viewer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288082909,
+                "language": "C",
+                "last_commit": "2026-08-16T16:08:54Z",
+                "owner": "htop-dev",
+                "repo": "htop",
+                "stars": 8263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tealdeer",
+              "description": "← very fast implementation of tldr in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48739367,
+                "language": "Rust",
+                "last_commit": "2026-08-18T19:06:43Z",
+                "owner": "tealdeer-rs",
+                "repo": "tealdeer",
+                "stars": 6441
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Outrun",
+              "description": "← execute a local command using the processing power of another Linux machine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204779807,
+                "language": "Python",
+                "last_commit": "2023-01-24T20:32:43Z",
+                "owner": "Overv",
+                "repo": "outrun",
+                "stars": 3135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "howdoi",
+              "description": "← get quick answers to common linux related questions, right inside your terminal by typing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265065639,
+                "language": "PHP",
+                "last_commit": "2021-03-23T19:21:32Z",
+                "owner": "san-kumar",
+                "repo": "howdoi",
+                "stars": 425
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jq",
+                  "description": "← CLI JSON processor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5101141,
+                    "language": "C",
+                    "last_commit": "2026-08-12T19:02:39Z",
+                    "owner": "jqlang",
+                    "repo": "jq",
+                    "stars": 35469
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sops",
+                  "description": "← tool for managing secrets",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40684033,
+                    "language": "Go",
+                    "last_commit": "2026-08-17T17:56:38Z",
+                    "owner": "getsops",
+                    "repo": "sops",
+                    "stars": 22857
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aws-cli",
+                  "description": "← official Amazon AWS command-line interface",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6780767,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T06:23:18Z",
+                    "owner": "aws",
+                    "repo": "aws-cli",
+                    "stars": 17197
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "yq",
+                  "description": "← command-line YAML, JSON and XML processor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43225113,
+                    "language": "Go",
+                    "last_commit": "2026-08-19T05:23:52Z",
+                    "owner": "mikefarah",
+                    "repo": "yq",
+                    "stars": 15858
+                  }
+                }
+              ],
+              "description": "⬆ Back to Contents",
+              "node_type": "group",
+              "title": "devops/mlops"
+            }
+          ],
+          "description": "[!NOTE] Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.) in the my-terminal repository.",
+          "node_type": "group",
+          "title": "shell"
         }
       ],
       "title": "🐧 Linux"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fzf",
-          "description": "← CLI fuzzy finder",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T03:11:26Z",
-            "owner": "junegunn",
-            "repo": "fzf",
-            "stars": 82559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bat",
-          "description": "← cat(1) clone with wings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T14:39:20Z",
-            "owner": "sharkdp",
-            "repo": "bat",
-            "stars": 60201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Starship",
-          "description": "← prompt for any shell (customize it, e.g. to disable the package module)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T16:16:09Z",
-            "owner": "starship",
-            "repo": "starship",
-            "stars": 59458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fd",
-          "description": "← better alternative to",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T17:42:55Z",
-            "owner": "sharkdp",
-            "repo": "fd",
-            "stars": 44122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nushell",
-          "description": "← new type of shell",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T15:57:20Z",
-            "owner": "nushell",
-            "repo": "nushell",
-            "stars": 40283
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zsh-autosuggestions",
-          "description": "← fish-like autosuggestions for Zsh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-06-24T16:15:03Z",
-            "owner": "zsh-users",
-            "repo": "zsh-autosuggestions",
-            "stars": 35988
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modern Unix",
-          "description": "← collection of modern/faster/saner alternatives to common unix commands",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-09-10T19:48:56Z",
-            "owner": "ibraheemdev",
-            "repo": "modern-unix",
-            "stars": 33016
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neofetch",
-          "description": "← CLI tool to display information about your OS in an aesthetic way",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2024-07-19T20:19:01Z",
-            "owner": "dylanaraps",
-            "repo": "neofetch",
-            "stars": 23708
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eza",
-          "description": "← modern replacement for",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-06T19:53:22Z",
-            "owner": "eza-community",
-            "repo": "eza",
-            "stars": 22961
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zsh-syntax-highlighting",
-          "description": "← Fish-shell-like syntax highlighting for Zsh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-07T19:11:51Z",
-            "owner": "zsh-users",
-            "repo": "zsh-syntax-highlighting",
-            "stars": 22930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "broot",
-          "description": "← new way to see and navigate directory trees",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T20:15:46Z",
-            "owner": "Canop",
-            "repo": "broot",
-            "stars": 12896
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "htop",
-          "description": "← interactive process viewer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-16T16:08:54Z",
-            "owner": "htop-dev",
-            "repo": "htop",
-            "stars": 8258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tealdeer",
-          "description": "← very fast implementation of tldr in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T18:15:42Z",
-            "owner": "tealdeer-rs",
-            "repo": "tealdeer",
-            "stars": 6435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Outrun",
-          "description": "← execute a local command using the processing power of another Linux machine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-24T20:32:43Z",
-            "owner": "Overv",
-            "repo": "outrun",
-            "stars": 3134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "howdoi",
-          "description": "← get quick answers to common linux related questions, right inside your terminal by typing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-03-23T19:21:32Z",
-            "owner": "san-kumar",
-            "repo": "howdoi",
-            "stars": 425
-          }
-        }
-      ],
-      "title": "shell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jq",
-          "description": "← CLI JSON processor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:02:39Z",
-            "owner": "jqlang",
-            "repo": "jq",
-            "stars": 35459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sops",
-          "description": "← tool for managing secrets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T17:56:38Z",
-            "owner": "getsops",
-            "repo": "sops",
-            "stars": 22846
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aws-cli",
-          "description": "← official Amazon AWS command-line interface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:42:08Z",
-            "owner": "aws",
-            "repo": "aws-cli",
-            "stars": 17190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yq",
-          "description": "← command-line YAML, JSON and XML processor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T03:55:00Z",
-            "owner": "mikefarah",
-            "repo": "yq",
-            "stars": 15847
-          }
-        }
-      ],
-      "title": "devops/mlops"
-    },
-    {
-      "description": "",
+      "description": "[!NOTE] For more, visit my LLM notes.\n⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -596,11 +618,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-18T11:44:59Z",
+            "last_commit": "2026-08-19T06:48:27Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186663
+            "stars": 186682
           }
         },
         {
@@ -610,11 +633,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-18T08:11:47Z",
+            "last_commit": "2026-08-19T10:38:36Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144470
+            "stars": 144547
           }
         },
         {
@@ -624,11 +648,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:34:47Z",
+            "last_commit": "2026-08-19T11:43:29Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84386
+            "stars": 84464
           }
         },
         {
@@ -638,11 +663,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718741813,
             "language": "Python",
             "last_commit": "2026-08-14T17:20:50Z",
             "owner": "abi",
             "repo": "screenshot-to-code",
-            "stars": 74141
+            "stars": 74212
           }
         },
         {
@@ -652,11 +678,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:27:04Z",
+            "last_commit": "2026-08-19T11:41:32Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68053
+            "stars": 68068
           }
         },
         {
@@ -666,11 +693,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-18T10:27:05Z",
+            "last_commit": "2026-08-19T11:40:00Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65018
+            "stars": 65144
           }
         },
         {
@@ -680,11 +708,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680120071,
             "language": "Python",
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60486
+            "stars": 60511
           }
         },
         {
@@ -694,11 +723,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635240594,
             "language": "Python",
-            "last_commit": "2026-08-18T10:19:55Z",
+            "last_commit": "2026-08-19T09:39:15Z",
             "owner": "zylon-ai",
             "repo": "private-gpt",
-            "stars": 57447
+            "stars": 57444
           }
         },
         {
@@ -708,11 +738,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-18T06:50:06Z",
+            "last_commit": "2026-08-19T07:20:53Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57242
+            "stars": 57307
           }
         },
         {
@@ -722,11 +753,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 634224458,
             "language": "Python",
             "last_commit": "2025-05-14T10:15:10Z",
             "owner": "AntonOsika",
             "repo": "gpt-engineer",
-            "stars": 55135
+            "stars": 55134
           }
         },
         {
@@ -736,11 +768,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638629097,
             "language": "Python",
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48306
+            "stars": 48324
           }
         },
         {
@@ -750,11 +783,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679506386,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:38:35Z",
+            "last_commit": "2026-08-19T09:44:57Z",
             "owner": "janhq",
             "repo": "jan",
-            "stars": 44041
+            "stars": 44053
           }
         },
         {
@@ -764,11 +798,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614764248,
             "language": "Rust",
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33829
+            "stars": 33828
           }
         },
         {
@@ -778,6 +813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679237742,
             "language": "Python",
             "last_commit": "2026-06-18T18:38:25Z",
             "owner": "Pythagora-io",
@@ -792,11 +828,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612781022,
             "language": null,
             "last_commit": "2026-05-12T15:25:06Z",
             "owner": "cursor",
             "repo": "cursor",
-            "stars": 33126
+            "stars": 33137
           }
         },
         {
@@ -806,11 +843,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776854298,
             "language": "Python",
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31051
+            "stars": 31068
           }
         },
         {
@@ -820,11 +858,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182212878,
             "language": "C#",
             "last_commit": "2026-08-13T10:28:53Z",
             "owner": "iOfficeAI",
             "repo": "OfficeCLI",
-            "stars": 28700
+            "stars": 28815
           }
         },
         {
@@ -834,11 +873,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631258918,
             "language": "Python",
             "last_commit": "2025-10-28T10:02:13Z",
             "owner": "sinaptik-ai",
             "repo": "pandas-ai",
-            "stars": 23750
+            "stars": 23751
           }
         },
         {
@@ -848,11 +888,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764723738,
             "language": "Python",
-            "last_commit": "2026-08-18T07:37:50Z",
+            "last_commit": "2026-08-19T04:54:25Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22778
+            "stars": 22787
           }
         },
         {
@@ -862,11 +903,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 773544702,
             "language": "TypeScript",
             "last_commit": "2026-08-14T06:32:28Z",
             "owner": "wandb",
             "repo": "openui",
-            "stars": 22508
+            "stars": 22510
           }
         },
         {
@@ -876,11 +918,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644715009,
             "language": "Python",
-            "last_commit": "2026-08-18T04:12:02Z",
+            "last_commit": "2026-08-19T08:10:55Z",
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22206
+            "stars": 22204
           }
         },
         {
@@ -890,11 +933,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564443255,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-21T17:08:04Z",
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21713
+            "stars": 21711
           }
         },
         {
@@ -904,11 +948,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 780737106,
             "language": "Python",
             "last_commit": "2026-08-17T22:33:19Z",
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20076
+            "stars": 20080
           }
         },
         {
@@ -918,8 +963,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 596516907,
             "language": "Python",
-            "last_commit": "2026-08-14T16:30:39Z",
+            "last_commit": "2026-08-19T11:19:26Z",
             "owner": "arc53",
             "repo": "DocsGPT",
             "stars": 18220
@@ -932,11 +978,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637924634,
             "language": "Python",
             "last_commit": "2026-02-24T07:47:19Z",
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15356
+            "stars": 15376
           }
         },
         {
@@ -946,11 +993,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 613984283,
             "language": "Python",
             "last_commit": "2026-08-18T11:33:46Z",
             "owner": "Chainlit",
             "repo": "chainlit",
-            "stars": 12396
+            "stars": 12398
           }
         },
         {
@@ -960,6 +1008,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 618613272,
             "language": "Python",
             "last_commit": "2025-10-09T23:30:01Z",
             "owner": "h2oai",
@@ -974,6 +1023,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 689849471,
             "language": "Python",
             "last_commit": "2026-03-23T06:17:21Z",
             "owner": "microsoft",
@@ -988,11 +1038,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153579168,
             "language": "Python",
             "last_commit": "2026-08-13T08:35:33Z",
             "owner": "Osmantic",
             "repo": "ODS",
-            "stars": 4291
+            "stars": 4392
           }
         },
         {
@@ -1007,11 +1058,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1148788086,
                 "language": "Shell",
-                "last_commit": "2026-08-17T07:54:42Z",
+                "last_commit": "2026-08-19T10:05:08Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 220966
+                "stars": 222660
               }
             },
             {
@@ -1021,11 +1073,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1142983825,
                 "language": null,
                 "last_commit": "2026-04-20T10:05:04Z",
                 "owner": "multica-ai",
                 "repo": "andrej-karpathy-skills",
-                "stars": 203508
+                "stars": 203797
               }
             },
             {
@@ -1035,11 +1088,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1266797999,
                 "language": "JavaScript",
                 "last_commit": "2026-08-07T21:44:01Z",
                 "owner": "DietrichGebert",
                 "repo": "ponytail",
-                "stars": 105086
+                "stars": 105708
               }
             },
             {
@@ -1049,11 +1103,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1201173969,
                 "language": "Go",
-                "last_commit": "2026-08-18T00:05:53Z",
+                "last_commit": "2026-08-19T08:32:24Z",
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 98858
+                "stars": 99134
               }
             },
             {
@@ -1063,11 +1118,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1048065319,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T11:45:29Z",
+                "last_commit": "2026-08-19T11:42:04Z",
                 "owner": "thedotmack",
                 "repo": "claude-mem",
-                "stars": 91076
+                "stars": 91222
               }
             },
             {
@@ -1077,11 +1133,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1137078255,
                 "language": "C",
                 "last_commit": "2026-08-08T02:56:05Z",
                 "owner": "colbymchenry",
                 "repo": "codegraph",
-                "stars": 66878
+                "stars": 67033
               }
             },
             {
@@ -1091,26 +1148,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1196181411,
                 "language": "Python",
                 "last_commit": "2026-06-16T03:10:06Z",
                 "owner": "drona23",
                 "repo": "claude-token-efficient",
-                "stars": 5952
+                "stars": 5955
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "ScrapeGraphAI",
-          "description": "← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)",
-          "children": []
         }
       ],
       "title": "🤖 LLM"
     },
     {
-      "description": "",
+      "description": "[!NOTE] For more, visit my macOS notes.\n⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -1119,11 +1171,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340547520,
             "language": "Rust",
-            "last_commit": "2026-08-18T11:33:56Z",
+            "last_commit": "2026-08-19T11:46:26Z",
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 88816
+            "stars": 88871
           }
         },
         {
@@ -1133,11 +1186,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367284699,
             "language": "Go",
-            "last_commit": "2026-08-18T01:43:35Z",
+            "last_commit": "2026-08-19T01:45:42Z",
             "owner": "lima-vm",
             "repo": "lima",
-            "stars": 21703
+            "stars": 21710
           }
         },
         {
@@ -1147,11 +1201,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40092232,
             "language": "Swift",
             "last_commit": "2026-08-17T12:46:16Z",
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12305
+            "stars": 12308
           }
         },
         {
@@ -1161,11 +1216,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1535038,
             "language": "Objective-C",
             "last_commit": "2026-05-28T19:11:15Z",
             "owner": "sveinbjornt",
             "repo": "Sloth",
-            "stars": 8936
+            "stars": 8938
           }
         },
         {
@@ -1175,11 +1231,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262013713,
             "language": "Swift",
             "last_commit": "2026-08-17T12:40:50Z",
             "owner": "leits",
             "repo": "MeetingBar",
-            "stars": 5307
+            "stars": 5308
           }
         },
         {
@@ -1189,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282309256,
             "language": "Swift",
             "last_commit": "2026-08-03T17:14:35Z",
             "owner": "ther0n",
@@ -1203,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488313025,
             "language": null,
             "last_commit": "2025-09-30T19:10:54Z",
             "owner": "pyxelr",
@@ -1217,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488313025,
             "language": null,
             "last_commit": "2025-09-30T19:10:54Z",
             "owner": "pyxelr",
@@ -1231,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740216318,
             "language": null,
             "last_commit": "2026-06-28T14:11:10Z",
             "owner": "pyxelr",
@@ -1250,6 +1311,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 453642201,
                 "language": "Swift",
                 "last_commit": "2024-05-03T04:09:41Z",
                 "owner": "DevToys-app",
@@ -1263,12 +1325,7 @@
       "title": "🍎 macOS"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "➗ Math"
-    },
-    {
-      "description": "",
+      "description": "[!NOTE] For more, visit my Android notes.\n⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -1277,11 +1334,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-18T11:17:16Z",
+            "last_commit": "2026-08-19T11:43:37Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178459
+            "stars": 178486
           }
         },
         {
@@ -1291,11 +1349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471494981,
             "language": "Kotlin",
             "last_commit": "2026-07-29T18:18:23Z",
             "owner": "ReVanced",
             "repo": "revanced-manager",
-            "stars": 29071
+            "stars": 29103
           }
         },
         {
@@ -1305,11 +1364,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481797111,
             "language": "Kotlin",
             "last_commit": "2026-07-25T15:49:47Z",
             "owner": "JunkFood02",
             "repo": "Seal",
-            "stars": 28274
+            "stars": 28302
           }
         },
         {
@@ -1319,11 +1379,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149111813,
             "language": "C++",
-            "last_commit": "2026-08-10T07:00:20Z",
+            "last_commit": "2026-08-19T07:31:34Z",
             "owner": "Tencent",
             "repo": "MMKV",
-            "stars": 18701
+            "stars": 18700
           }
         },
         {
@@ -1333,11 +1394,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 386524895,
             "language": "Python",
-            "last_commit": "2026-08-18T11:20:24Z",
+            "last_commit": "2026-08-19T11:24:28Z",
             "owner": "mvt-project",
             "repo": "mvt",
-            "stars": 12902
+            "stars": 12911
           }
         },
         {
@@ -1347,6 +1409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138826968,
             "language": "C++",
             "last_commit": "2024-06-17T09:17:33Z",
             "owner": "XiaoMi",
@@ -1361,11 +1424,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126059712,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T05:05:25Z",
+            "last_commit": "2026-08-19T00:12:17Z",
             "owner": "CypherpunkArmory",
             "repo": "UserLAnd",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -1375,6 +1439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261444872,
             "language": "Python",
             "last_commit": "2020-05-05T11:30:45Z",
             "owner": "hazardsecurity-1",
@@ -1389,6 +1454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20917376,
             "language": "Java",
             "last_commit": "2019-07-23T19:07:35Z",
             "owner": "GeoffreyHecht",
@@ -1403,6 +1469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217923323,
             "language": null,
             "last_commit": "2023-04-03T21:50:52Z",
             "owner": "pyxelr",
@@ -1417,6 +1484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488313025,
             "language": null,
             "last_commit": "2025-09-30T19:10:54Z",
             "owner": "pyxelr",
@@ -1428,46 +1496,50 @@
       "title": "📱 Mobile Apps"
     },
     {
-      "description": "",
-      "items": [],
+      "description": "[!NOTE] For more, visit my Music notes.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spleeter",
+              "description": "← extract acapella from the song using AI (demonstration video)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211124697,
+                "language": "Python",
+                "last_commit": "2026-06-18T15:22:32Z",
+                "owner": "deezer",
+                "repo": "spleeter",
+                "stars": 28389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepJ",
+              "description": "← AI to compose piano music in real-time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79006723,
+                "language": "Python",
+                "last_commit": "2018-09-30T18:28:01Z",
+                "owner": "calclavia",
+                "repo": "DeepJ",
+                "stars": 743
+              }
+            }
+          ],
+          "description": "⬆ Back to Contents",
+          "node_type": "group",
+          "title": "tools"
+        }
+      ],
       "title": "🎶 Music"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Spleeter",
-          "description": "← extract acapella from the song using AI (demonstration video)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-18T15:22:32Z",
-            "owner": "deezer",
-            "repo": "spleeter",
-            "stars": 28381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepJ",
-          "description": "← AI to compose piano music in real-time",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-09-30T18:28:01Z",
-            "owner": "calclavia",
-            "repo": "DeepJ",
-            "stars": 743
-          }
-        }
-      ],
-      "title": "tools"
-    },
-    {
-      "description": "",
+      "description": "⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -1476,6 +1548,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40307075,
             "language": null,
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
@@ -1490,11 +1563,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109145965,
             "language": "HTML",
             "last_commit": "2025-11-23T14:16:02Z",
             "owner": "vitalets",
             "repo": "github-trending-repos",
-            "stars": 2993
+            "stars": 2994
           }
         },
         {
@@ -1509,6 +1583,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1299745361,
                 "language": "Python",
                 "last_commit": "2026-08-14T11:40:35Z",
                 "owner": "pyxelr",
@@ -1522,12 +1597,7 @@
       "title": "📧 Newsletters"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "🎧 Podcasts"
-    },
-    {
-      "description": "",
+      "description": "⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -1536,11 +1606,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57224308,
             "language": "Python",
             "last_commit": "2026-08-17T21:38:13Z",
             "owner": "ActivityWatch",
             "repo": "activitywatch",
-            "stars": 18632
+            "stars": 18637
           }
         },
         {
@@ -1550,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223811987,
             "language": null,
             "last_commit": "2026-08-16T14:36:14Z",
             "owner": "pyxelr",
@@ -1561,107 +1633,110 @@
       "title": "⏲ Productivity"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build your own X",
+              "description": "← resources to start developing your first website, database; you name it",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132750724,
+                "language": "Markdown",
+                "last_commit": "2026-07-14T19:25:58Z",
+                "owner": "codecrafters-io",
+                "repo": "build-your-own-x",
+                "stars": 541116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coding Interview University",
+              "description": "← complete computer science study plan to become a software engineer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60493101,
+                "language": null,
+                "last_commit": "2025-08-28T14:42:47Z",
+                "owner": "jwasham",
+                "repo": "coding-interview-university",
+                "stars": 359197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript Algorithms and Data Structures",
+              "description": "← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126577260,
+                "language": "JavaScript",
+                "last_commit": "2026-07-26T02:43:08Z",
+                "owner": "trekhleb",
+                "repo": "javascript-algorithms",
+                "stars": 196522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Every Programmer Should Know",
+              "description": "← collection of (mostly) technical things every software developer should know",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101296881,
+                "language": null,
+                "last_commit": "2025-12-29T19:37:02Z",
+                "owner": "mtdvio",
+                "repo": "every-programmer-should-know",
+                "stars": 100264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A to Z Resources for Students",
+              "description": "← find even more resources to learn software engineering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149113514,
+                "language": null,
+                "last_commit": "2026-06-17T14:00:26Z",
+                "owner": "dipakkr",
+                "repo": "A-to-Z-Resources-for-Students",
+                "stars": 22186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Games of Coding",
+              "description": "← curated list of games that can teach you how to learn a programming language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80900906,
+                "language": null,
+                "last_commit": "2026-03-25T03:16:25Z",
+                "owner": "michelpereira",
+                "repo": "awesome-games-of-coding",
+                "stars": 2140
+              }
+            }
+          ],
+          "description": "⬆ Back to Contents",
+          "node_type": "group",
+          "title": "websites to study from"
+        }
+      ],
       "title": "💻 Programming"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "online tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Build your own X",
-          "description": "← resources to start developing your first website, database; you name it",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-07-14T19:25:58Z",
-            "owner": "codecrafters-io",
-            "repo": "build-your-own-x",
-            "stars": 540702
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coding Interview University",
-          "description": "← complete computer science study plan to become a software engineer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-28T14:42:47Z",
-            "owner": "jwasham",
-            "repo": "coding-interview-university",
-            "stars": 359108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JavaScript Algorithms and Data Structures",
-          "description": "← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-26T02:43:08Z",
-            "owner": "trekhleb",
-            "repo": "javascript-algorithms",
-            "stars": 196508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Every Programmer Should Know",
-          "description": "← collection of (mostly) technical things every software developer should know",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-29T19:37:02Z",
-            "owner": "mtdvio",
-            "repo": "every-programmer-should-know",
-            "stars": 100258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A to Z Resources for Students",
-          "description": "← find even more resources to learn software engineering",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-17T14:00:26Z",
-            "owner": "dipakkr",
-            "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Games of Coding",
-          "description": "← curated list of games that can teach you how to learn a programming language",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-25T03:16:25Z",
-            "owner": "michelpereira",
-            "repo": "awesome-games-of-coding",
-            "stars": 2140
-          }
-        }
-      ],
-      "title": "websites to study from"
-    },
-    {
-      "description": "",
+      "description": "[!NOTE] For more, visit my Windows notes.\n⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
@@ -1670,11 +1745,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184456251,
             "language": "C",
-            "last_commit": "2026-08-18T11:06:29Z",
+            "last_commit": "2026-08-19T09:30:54Z",
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 137837
+            "stars": 137876
           }
         },
         {
@@ -1684,11 +1760,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-15T17:59:05Z",
+            "last_commit": "2026-08-18T22:23:50Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104622
+            "stars": 104629
           }
         },
         {
@@ -1698,11 +1775,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178991158,
             "language": "Rust",
             "last_commit": "2026-08-17T16:16:09Z",
             "owner": "starship",
             "repo": "starship",
-            "stars": 59458
+            "stars": 59478
           }
         },
         {
@@ -1712,11 +1790,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394318710,
             "language": "C",
             "last_commit": "2026-07-06T12:44:31Z",
             "owner": "valinet",
             "repo": "ExplorerPatcher",
-            "stars": 33647
+            "stars": 33658
           }
         },
         {
@@ -1726,11 +1805,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88064357,
             "language": "C#",
             "last_commit": "2026-08-18T09:31:32Z",
             "owner": "QL-Win",
             "repo": "QuickLook",
-            "stars": 24422
+            "stars": 24434
           }
         },
         {
@@ -1740,11 +1820,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295200728,
             "language": "C",
             "last_commit": "2026-08-16T12:09:28Z",
             "owner": "srwi",
             "repo": "EverythingToolbar",
-            "stars": 14589
+            "stars": 14598
           }
         },
         {
@@ -1754,11 +1835,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346871538,
             "language": "C++",
             "last_commit": "2026-07-06T14:32:10Z",
             "owner": "microsoft",
             "repo": "wslg",
-            "stars": 11799
+            "stars": 11800
           }
         },
         {
@@ -1768,11 +1850,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66016134,
             "language": "C",
-            "last_commit": "2026-08-15T20:31:11Z",
+            "last_commit": "2026-08-18T18:57:33Z",
             "owner": "henrypp",
             "repo": "simplewall",
-            "stars": 8854
+            "stars": 8862
           }
         },
         {
@@ -1782,11 +1865,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555374,
             "language": "PowerShell",
             "last_commit": "2024-09-02T15:03:06Z",
             "owner": "dahlbyk",
             "repo": "posh-git",
-            "stars": 8261
+            "stars": 8263
           }
         },
         {
@@ -1796,11 +1880,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220251820,
             "language": "C#",
             "last_commit": "2026-08-12T04:39:51Z",
             "owner": "gerardog",
             "repo": "gsudo",
-            "stars": 6025
+            "stars": 6028
           }
         },
         {
@@ -1810,11 +1895,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294977469,
             "language": "C++",
             "last_commit": "2026-08-16T20:44:24Z",
             "owner": "chrisant996",
             "repo": "clink",
-            "stars": 5440
+            "stars": 5444
           }
         },
         {
@@ -1824,11 +1910,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638089306,
             "language": "C++",
             "last_commit": "2026-07-14T20:41:02Z",
             "owner": "win32ss",
             "repo": "supermium",
-            "stars": 4662
+            "stars": 4663
           }
         },
         {
@@ -1838,11 +1925,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290138319,
             "language": "C++",
-            "last_commit": "2026-06-29T19:40:03Z",
+            "last_commit": "2026-08-18T20:01:44Z",
             "owner": "AntiMicroX",
             "repo": "antimicrox",
-            "stars": 3921
+            "stars": 3926
           }
         },
         {
@@ -1852,6 +1940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585461752,
             "language": null,
             "last_commit": "2026-06-07T00:26:48Z",
             "owner": "NexovaDev",
@@ -1866,11 +1955,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371065787,
             "language": "Shell",
             "last_commit": "2023-03-08T20:56:04Z",
             "owner": "AmmarRahman",
             "repo": "wsl-vpn",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1880,6 +1970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280667668,
             "language": "AutoHotkey",
             "last_commit": "2024-01-07T19:54:14Z",
             "owner": "pyxelr",
@@ -1894,6 +1985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740216318,
             "language": null,
             "last_commit": "2026-06-28T14:11:10Z",
             "owner": "pyxelr",
@@ -1905,32 +1997,21 @@
       "title": "🖥 Windows"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "📼 YouTube Channels"
-    },
-    {
-      "description": "",
+      "description": "⬆ Back to Contents",
       "items": [
         {
           "node_type": "item",
           "title": "Awesome",
           "description": "← GitHub repository with lists on all kinds of interesting topics",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "awesome-awesome-awesome",
-              "description": "← awesome list of repositories of awesome lists",
-              "children": []
-            }
-          ],
+          "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497191
+            "stars": 497645
           }
         },
         {
@@ -1940,11 +2021,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111583593,
             "language": "C",
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 147845
+            "stars": 147900
           }
         },
         {
@@ -1954,6 +2036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145803079,
             "language": "TypeScript",
             "last_commit": "2026-08-05T17:27:01Z",
             "owner": "felixrieseberg",
@@ -1968,11 +2051,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34228852,
             "language": null,
             "last_commit": "2025-06-05T18:28:31Z",
             "owner": "AchoArnold",
             "repo": "discount-for-student-dev",
-            "stars": 3339
+            "stars": 3340
           }
         }
       ],
@@ -1980,8 +2064,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:46:46.259Z",
+    "last_updated": "2026-08-19T11:46:53.550Z",
     "original_repository": "pyxelr/recommendations-for-engineers",
+    "original_repository_id": 223811987,
     "original_repository_sha": "1e1a56c10196435fe1238574737dc15dcfa9a98a",
     "enhanced_repository": "enhansome/enhansome-recommendations-for-engineers",
     "enhanced_repository_description": null,
