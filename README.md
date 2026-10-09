@@ -4,7 +4,7 @@ All of my recommendations for aspiring engineers in a single place, coming from 
 
 The list also aggregates and extends most of the suggestions from [my blog posts](https://pawelcislo.com/), where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to create a pull request if I missed something interesting or if there is a dead link.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,667 | 🐛 106 | 📅 2026-09-02 list thing.
 
 > \[!NOTE]
 > [Subscribe to my newsletter](https://pawelcislo.substack.com/) to keep up to date with my content!
@@ -348,7 +348,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 |
 
 ## 💾 Browser Extensions
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#installation) ⭐ 68,414 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-08 ← blocker addon (not only for ads)
+* [uBlock Origin](https://github.com/gorhill/uBlock#installation) ⭐ 68,440 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-08 ← blocker addon (not only for ads)
 * [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) ⚠️ Archived ← FireBug for designers - edit any webpage, in any state
 * [Refined Twitter](https://github.com/sindresorhus/refined-twitter) ⚠️ Archived ← simplify Twitter UI and add useful features
 * [Github Web IDE](https://github.com/zvizvi/Github-Web-IDE) ⭐ 476 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-06 ← add a new drop-down menu to any GitHub repository to browse the source code in a number of online IDEs
@@ -428,7 +428,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 |
 
 ### learn
 
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 248,521 | 🐛 174 | 📅 2024-11-19 ← collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 248,765 | 🐛 175 | 📅 2024-11-19 ← collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 * [CTFlearn](https://ctflearn.com/) ← ethical hacking platform that enables tens of thousands to learn, practice, and compete
 * [CTFtime](https://ctftime.org/) ← CTF archive, current overall Capture The Flag team rating, per-team statistics etc.
 * [Google CTF](https://capturetheflag.withgoogle.com/) ← CTF organised by Google with different challenges to practice
@@ -475,7 +475,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 |
 > \[!NOTE]
 > My private Obsidian would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
 
-* [Most general cheatsheet](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf) ⭐ 16,363 | 🐛 13 | 📅 2024-07-18 ← in a single PDF file
+* [Most general cheatsheet](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf) ⭐ 16,361 | 🐛 13 | 📅 2024-07-18 ← in a single PDF file
 * [Chris Albon](https://chrisalbon.com/) ← comprehensive notes/code snippets on using Data Science & Artificial Intelligence
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) ← best Python cheatsheet I found so far
 * [Data Science board of my Pinterest](https://pinterest.com/pyxelrr/data-science/)
@@ -483,7 +483,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 |
 
 ### datasets
 
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,382 | 🐛 164 | 📅 2026-10-08
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,397 | 🐛 163 | 📅 2026-10-09
 * [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) ⭐ 3,060 | 🐛 48 | 🌐 Python | 📅 2022-04-20 ← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 * [Mathematics Dataset](https://github.com/deepmind/mathematics_dataset) ⭐ 1,970 | 🐛 3 | 🌐 Python | 📅 2024-12-23 ← generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty
 * [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) ⭐ 906 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-05-17 ← new dataset for book recommendations
@@ -535,8 +535,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 |
 
 ### learning material
 
-* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,362 | 🐛 48 | 🌐 Python | 📅 2024-03-20 ← learn data science from IPython notebooks
-* [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ⭐ 14,998 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14 ← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
+* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,357 | 🐛 48 | 🌐 Python | 📅 2024-03-20 ← learn data science from IPython notebooks
+* [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ⭐ 14,997 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14 ← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
 * [AI Expert Roadmap](https://i.am.ai/roadmap) ← roadmap to becoming an Artificial Intelligence Expert in 2020
 * [AI Explorables](https://pair.withgoogle.com/explorables/) ← big ideas in machine learning, simply explained by Google
 * [Deep Learning Monitor](https://deeplearn.org/) ← find new Arxiv papers, tweets and Reddit posts for you
@@ -756,8 +756,8 @@ As there are many, I highly encourage you to check my custom feeds:
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived ← animated GIF recorder for Linux
 * [termtosvg](https://github.com/nbedos/termtosvg) ⚠️ Archived ← record terminal sessions as SVG animations
-* [xxh](https://github.com/xxh/xxh) ⭐ 6,104 | 🐛 30 | 🌐 Python | 📅 2026-06-02 ← bring your favorite shell wherever you go through ssh
-* [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ⭐ 4,308 | 🐛 9 | 🌐 Shell | 📅 2026-10-07 ← run a Linux distribution or application on Android (without root)
+* [xxh](https://github.com/xxh/xxh) ⭐ 6,105 | 🐛 30 | 🌐 Python | 📅 2026-06-02 ← bring your favorite shell wherever you go through ssh
+* [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ⭐ 4,308 | 🐛 7 | 🌐 Shell | 📅 2026-10-09 ← run a Linux distribution or application on Android (without root)
 * [instantbox](https://github.com/instantbox/instantbox) ⭐ 4,171 | 🐛 8 | 🌐 Python | 📅 2024-03-12 ← spin up temporary Linux systems with instant webshell access from any browser
 * [Cassowary](https://github.com/casualsnek/cassowary) ⭐ 3,587 | 🐛 73 | 🌐 Python | 📅 2024-03-28 ← run Windows applications on Linux as if they are native
 * [DistroSea](https://distrosea.com/) ← try running any Linux distro in the cloud VM
@@ -769,20 +769,20 @@ As there are many, I highly encourage you to check my custom feeds:
 > \[!NOTE]
 > Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.) in the [my-terminal](https://github.com/pyxelr/my-terminal) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 repository.
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 83,450 | 🐛 333 | 🌐 Go | 📅 2026-10-08 ← CLI fuzzy finder
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,709 | 🐛 543 | 🌐 Rust | 📅 2026-10-07 ← cat(1) clone with wings
-* [Starship](https://github.com/starship/starship) ⭐ 60,186 | 🐛 1,062 | 🌐 Rust | 📅 2026-10-08 ← prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,674 | 🐛 200 | 🌐 Rust | 📅 2026-10-07 ← better alternative to `find`
-* [nushell](https://github.com/nushell/nushell) ⭐ 40,636 | 🐛 1,471 | 🌐 Rust | 📅 2026-10-08 ← new type of shell
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,977 | 🐛 148 | 🌐 Rust | 📅 2026-10-03 ← smarter `cd` that jumps to your most-used directories
-* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) ⭐ 36,122 | 🐛 203 | 🌐 Shell | 📅 2025-06-24 ← fish-like autosuggestions for Zsh
-* [Modern Unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,020 | 🐛 70 | 📅 2024-09-10 ← collection of modern/faster/saner alternatives to common unix commands
+* [fzf](https://github.com/junegunn/fzf) ⭐ 83,473 | 🐛 333 | 🌐 Go | 📅 2026-10-08 ← CLI fuzzy finder
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,725 | 🐛 544 | 🌐 Rust | 📅 2026-10-07 ← cat(1) clone with wings
+* [Starship](https://github.com/starship/starship) ⭐ 60,194 | 🐛 1,061 | 🌐 Rust | 📅 2026-10-09 ← prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,702 | 🐛 203 | 🌐 Rust | 📅 2026-10-07 ← better alternative to `find`
+* [nushell](https://github.com/nushell/nushell) ⭐ 40,638 | 🐛 1,457 | 🌐 Rust | 📅 2026-10-09 ← new type of shell
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,998 | 🐛 148 | 🌐 Rust | 📅 2026-10-03 ← smarter `cd` that jumps to your most-used directories
+* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) ⭐ 36,123 | 🐛 203 | 🌐 Shell | 📅 2025-06-24 ← fish-like autosuggestions for Zsh
+* [Modern Unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,019 | 🐛 70 | 📅 2024-09-10 ← collection of modern/faster/saner alternatives to common unix commands
   * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) ← by Julia Evans
 * [Neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived ← CLI tool to display information about your OS in an aesthetic way
-* [eza](https://github.com/eza-community/eza) ⭐ 23,506 | 🐛 464 | 🌐 Rust | 📅 2026-08-06 ← modern replacement for `ls`
-* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐ 23,023 | 🐛 214 | 🌐 Shell | 📅 2026-09-17 ← Fish-shell-like syntax highlighting for Zsh
-* [broot](https://github.com/Canop/broot) ⭐ 13,057 | 🐛 103 | 🌐 Rust | 📅 2026-10-04 ← new way to see and navigate directory trees
-* [htop](https://github.com/htop-dev/htop/) ⭐ 8,378 | 🐛 357 | 🌐 C | 📅 2026-10-07 ← interactive process viewer
+* [eza](https://github.com/eza-community/eza) ⭐ 23,514 | 🐛 463 | 🌐 Rust | 📅 2026-08-06 ← modern replacement for `ls`
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ⭐ 23,024 | 🐛 214 | 🌐 Shell | 📅 2026-10-09 ← Fish-shell-like syntax highlighting for Zsh
+* [broot](https://github.com/Canop/broot) ⭐ 13,060 | 🐛 103 | 🌐 Rust | 📅 2026-10-09 ← new way to see and navigate directory trees
+* [htop](https://github.com/htop-dev/htop/) ⭐ 8,382 | 🐛 358 | 🌐 C | 📅 2026-10-07 ← interactive process viewer
 * [tealdeer](https://github.com/dbrgn/tealdeer) ⭐ 6,585 | 🐛 17 | 🌐 Rust | 📅 2026-08-25 ← very fast implementation of tldr in Rust
 * [Outrun](https://github.com/Overv/outrun) ⭐ 3,136 | 🐛 14 | 🌐 Python | 📅 2023-01-24 ← execute a local command using the processing power of another Linux machine
 * [howdoi](https://github.com/san-kumar/howdoi) ⭐ 425 | 🐛 1 | 🌐 PHP | 📅 2021-03-23 ← get quick answers to common linux related questions, right inside your terminal by typing `"howdoi [your question]"`
@@ -797,10 +797,10 @@ As there are many, I highly encourage you to check my custom feeds:
 
 #### devops/mlops
 
-* [jq](https://github.com/stedolan/jq) ⭐ 35,765 | 🐛 420 | 🌐 C | 📅 2026-10-08 ← CLI JSON processor
-* [sops](https://github.com/mozilla/sops) ⭐ 23,342 | 🐛 453 | 🌐 Go | 📅 2026-10-05 ← tool for managing secrets
-* [aws-cli](https://github.com/aws/aws-cli) ⭐ 17,293 | 🐛 762 | 🌐 Python | 📅 2026-10-08 ← official Amazon AWS command-line interface
-* [yq](https://github.com/mikefarah/yq) ⭐ 16,066 | 🐛 299 | 🌐 Go | 📅 2026-10-08 ← command-line YAML, JSON and XML processor
+* [jq](https://github.com/stedolan/jq) ⭐ 35,774 | 🐛 422 | 🌐 C | 📅 2026-10-09 ← CLI JSON processor
+* [sops](https://github.com/mozilla/sops) ⭐ 23,350 | 🐛 453 | 🌐 Go | 📅 2026-10-05 ← tool for managing secrets
+* [aws-cli](https://github.com/aws/aws-cli) ⭐ 17,295 | 🐛 761 | 🌐 Python | 📅 2026-10-09 ← official Amazon AWS command-line interface
+* [yq](https://github.com/mikefarah/yq) ⭐ 16,070 | 🐛 296 | 🌐 Go | 📅 2026-10-09 ← command-line YAML, JSON and XML processor
 * [helm](https://helm.sh/) ← package manager for Kubernetes
 * [k9s](https://k9scli.io/) ← Kubernetes CLI (alternatively, try [Lens](https://k8slens.dev/))
 * [kubectl](https://kubernetes.io/docs/tasks/tools/) ← Kubernetes cluster manager
@@ -813,44 +813,44 @@ As there are many, I highly encourage you to check my custom feeds:
 > \[!NOTE]
 > For more, visit my [LLM notes](https://pawelcislo.com/knowledge/llm/llm/).
 
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,483 | 🐛 668 | 🌐 Python | 📅 2026-10-08 ← experimental open-source attempt to make GPT-4 fully autonomous
-* [LangChain](https://github.com/hwchase17/langchain) ⭐ 147,402 | 🐛 633 | 🌐 Python | 📅 2026-10-08 ← framework for building LLM apps
-* [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 90,284 | 🐛 951 | 🌐 TypeScript | 📅 2026-10-08 ← open-source project aiming to replicate [Devin](https://www.cognition-labs.com/introducing-devin)
-* [screenshot-to-code](https://github.com/abi/screenshot-to-code) ⭐ 80,088 | 🐛 149 | 🌐 Python | 📅 2026-09-29 ← drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-* [Docling](https://github.com/DS4SD/docling) ⭐ 68,543 | 🐛 1,021 | 🌐 Python | 📅 2026-10-08 ← parse documents and export them to the desired format
-* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 68,526 | 🐛 11 | 🌐 Rust | 📅 2026-10-07 ← NLP interface terminal app
-* [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,311 | 🐛 1,103 | 🌐 Python | 📅 2026-04-15 ← enable next-gen large language model applications
-* [crewAI](https://github.com/joaomdmoura/crewAI) ⭐ 59,464 | 🐛 571 | 🌐 Python | 📅 2026-10-08 ← framework for orchestrating role-playing, autonomous AI agents (e.g. to plan trip)
-* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,561 | 🐛 16 | 🌐 Python | 📅 2026-10-08 ← interact privately with your documents using the power of GPT, 100% privately, no data leaks
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,496 | 🐛 685 | 🌐 Python | 📅 2026-10-09 ← experimental open-source attempt to make GPT-4 fully autonomous
+* [LangChain](https://github.com/hwchase17/langchain) ⭐ 147,467 | 🐛 640 | 🌐 Python | 📅 2026-10-09 ← framework for building LLM apps
+* [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 90,387 | 🐛 974 | 🌐 TypeScript | 📅 2026-10-09 ← open-source project aiming to replicate [Devin](https://www.cognition-labs.com/introducing-devin)
+* [screenshot-to-code](https://github.com/abi/screenshot-to-code) ⭐ 80,124 | 🐛 147 | 🌐 Python | 📅 2026-09-29 ← drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+* [Docling](https://github.com/DS4SD/docling) ⭐ 68,597 | 🐛 1,026 | 🌐 Python | 📅 2026-10-09 ← parse documents and export them to the desired format
+* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 68,533 | 🐛 12 | 🌐 Rust | 📅 2026-10-07 ← NLP interface terminal app
+* [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,330 | 🐛 1,102 | 🌐 Python | 📅 2026-04-15 ← enable next-gen large language model applications
+* [crewAI](https://github.com/joaomdmoura/crewAI) ⭐ 59,506 | 🐛 585 | 🌐 Python | 📅 2026-10-09 ← framework for orchestrating role-playing, autonomous AI agents (e.g. to plan trip)
+* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,566 | 🐛 12 | 🌐 Python | 📅 2026-10-09 ← interact privately with your documents using the power of GPT, 100% privately, no data leaks
 * [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) ⚠️ Archived ← generate an entire codebase based on a prompt
-* [aider](https://github.com/paul-gauthier/aider) ⭐ 49,424 | 🐛 1,913 | 🌐 Python | 📅 2026-05-22 ← AI pair programming in your terminal
-* [Jan](https://github.com/janhq/jan) ⭐ 44,852 | 🐛 543 | 🌐 Rust | 📅 2026-10-08 ← open-source alternative to ChatGPT that runs locally
-* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,906 | 🐛 341 | 🌐 Rust | 📅 2026-06-30 ← self-hosted AI coding assistant (e.g. to be used in VS Code)
-* [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,654 | 🐛 252 | 🌐 Python | 📅 2026-06-18 ← dev tool that writes scalable apps from scratch while the developer oversees the implementation
+* [aider](https://github.com/paul-gauthier/aider) ⭐ 49,436 | 🐛 1,913 | 🌐 Python | 📅 2026-05-22 ← AI pair programming in your terminal
+* [Jan](https://github.com/janhq/jan) ⭐ 44,862 | 🐛 545 | 🌐 Rust | 📅 2026-10-09 ← open-source alternative to ChatGPT that runs locally
+* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,906 | 🐛 335 | 🌐 Rust | 📅 2026-06-30 ← self-hosted AI coding assistant (e.g. to be used in VS Code)
+* [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,652 | 🐛 252 | 🌐 Python | 📅 2026-06-18 ← dev tool that writes scalable apps from scratch while the developer oversees the implementation
 * [Cursor](https://github.com/getcursor/cursor) ⭐ 33,266 | 🐛 3 | 📅 2026-05-12 ← AI-powered code editor based on VS Code
-* [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ⭐ 31,712 | 🐛 86 | 🌐 C# | 📅 2026-10-06 ← Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files
-* [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 31,622 | 🐛 18 | 🌐 Python | 📅 2026-10-06 ← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)
-* [Storm](https://github.com/stanford-oval/storm) ⭐ 31,592 | 🐛 111 | 🌐 Python | 📅 2025-09-30 ← LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations
-* [pandas-ai](https://github.com/gventuri/pandas-ai) ⭐ 23,857 | 🐛 23 | 🌐 Python | 📅 2025-10-28 ← generative AI in Pandas
-* [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,158 | 🐛 271 | 🌐 Python | 📅 2026-10-08 ← automate browser-based workflows with LLMs and Computer Vision
-* [OpenUI](https://github.com/wandb/openui) ⭐ 22,567 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-25 ← OpenUI let's you describe UI using your imagination, then see it rendered live
-* [localGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,188 | 🐛 22 | 🌐 Python | 📅 2026-08-26 ← private and local chatGPT for chatting with your documents
+* [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ⭐ 31,763 | 🐛 87 | 🌐 C# | 📅 2026-10-09 ← Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files
+* [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 31,653 | 🐛 17 | 🌐 Python | 📅 2026-10-06 ← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)
+* [Storm](https://github.com/stanford-oval/storm) ⭐ 31,597 | 🐛 111 | 🌐 Python | 📅 2025-09-30 ← LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations
+* [pandas-ai](https://github.com/gventuri/pandas-ai) ⭐ 23,865 | 🐛 23 | 🌐 Python | 📅 2025-10-28 ← generative AI in Pandas
+* [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,167 | 🐛 272 | 🌐 Python | 📅 2026-10-09 ← automate browser-based workflows with LLMs and Computer Vision
+* [OpenUI](https://github.com/wandb/openui) ⭐ 22,567 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-09 ← OpenUI let's you describe UI using your imagination, then see it rendered live
+* [localGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,190 | 🐛 22 | 🌐 Python | 📅 2026-08-26 ← private and local chatGPT for chatting with your documents
 * [Guidance](https://github.com/guidance-ai/guidance) ⭐ 21,786 | 🐛 345 | 🌐 Jupyter Notebook | 📅 2026-05-21 ← preferred over Langchain by **Szymon Maszke**
-* [SWE-agent](https://github.com/princeton-nlp/SWE-agent) ⭐ 20,507 | 🐛 150 | 🌐 Python | 📅 2026-10-06 ← takes a GitHub issue and tries to automatically fix it
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,316 | 🐛 79 | 🌐 Python | 📅 2026-10-08 ← chat with your documentation
-* [Ragas](https://github.com/explodinggradients/ragas) ⭐ 15,966 | 🐛 626 | 🌐 Python | 📅 2026-02-24 ← objective metrics, intelligent test generation, and data-driven insights for LLM apps
-* [Chainlit](https://github.com/Chainlit/chainlit) ⭐ 12,505 | 🐛 159 | 🌐 Python | 📅 2026-09-18 ← UI for chatbots
+* [SWE-agent](https://github.com/princeton-nlp/SWE-agent) ⭐ 20,513 | 🐛 153 | 🌐 Python | 📅 2026-10-06 ← takes a GitHub issue and tries to automatically fix it
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,316 | 🐛 81 | 🌐 Python | 📅 2026-10-08 ← chat with your documentation
+* [Ragas](https://github.com/explodinggradients/ragas) ⭐ 15,975 | 🐛 628 | 🌐 Python | 📅 2026-02-24 ← objective metrics, intelligent test generation, and data-driven insights for LLM apps
+* [Chainlit](https://github.com/Chainlit/chainlit) ⭐ 12,505 | 🐛 158 | 🌐 Python | 📅 2026-09-18 ← UI for chatbots
 * [h2oGPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived ← world's best open source GPT
-* [ODS](https://github.com/Osmantic/ODS) ⭐ 7,150 | 🐛 813 | 🌐 Python | 📅 2026-10-08 ← turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation
+* [ODS](https://github.com/Osmantic/ODS) ⭐ 7,186 | 🐛 799 | 🌐 Python | 📅 2026-10-09 ← turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation
 * [TaskWeaver](https://github.com/microsoft/taskweaver/) ⚠️ Archived ← code-first agent framework for seamlessly planning and executing data analytics tasks
 * [Artificial Analysis](https://artificialanalysis.ai/models) ← comparison of models: intelligence, performance & price analysis
 * Claude Code
-  * [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 280,761 | 🐛 163 | 🌐 Shell | 📅 2026-10-08 ← skills for real engineers from .claude directory
-  * [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 217,397 | 🐛 131 | 📅 2026-04-20 ← a single CLAUDE.md file from Andrej Karpathy
-  * [ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 158,208 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-08 ← makes your AI agent think like the laziest senior dev in the room
-  * [caveman](https://github.com/JuliusBrussee/caveman) ⭐ 110,545 | 🐛 47 | 🌐 Go | 📅 2026-10-08 ← Claude Code skill to keep short responses
-  * [claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 98,261 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-08 ← persistent context across sessions for every agent
-  * [codegraph](https://github.com/colbymchenry/codegraph) ⭐ 73,482 | 🐛 523 | 🌐 C | 📅 2026-10-07 ← pre-indexed code knowledge graph
+  * [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 282,324 | 🐛 159 | 🌐 Shell | 📅 2026-10-09 ← skills for real engineers from .claude directory
+  * [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 217,692 | 🐛 131 | 📅 2026-04-20 ← a single CLAUDE.md file from Andrej Karpathy
+  * [ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 159,390 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-08 ← makes your AI agent think like the laziest senior dev in the room
+  * [caveman](https://github.com/JuliusBrussee/caveman) ⭐ 110,729 | 🐛 54 | 🌐 Go | 📅 2026-10-09 ← Claude Code skill to keep short responses
+  * [claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 98,918 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-09 ← persistent context across sessions for every agent
+  * [codegraph](https://github.com/colbymchenry/codegraph) ⭐ 73,592 | 🐛 534 | 🌐 C | 📅 2026-10-07 ← pre-indexed code knowledge graph
   * [claude-token-efficient](https://github.com/drona23/claude-token-efficient) ⭐ 6,080 | 🐛 2 | 🌐 Python | 📅 2026-06-16 ← one CLAUDE.md file to keep short responses
   * [Skillta](https://skillta.com/) ← instantly deploy expert-level Claude skills, OpenClaw skills and GitHub Copilot skills. Browse, install, and share
 * [CodeRabbit](https://coderabbit.ai/) ← free LLM bot for code reviews
@@ -864,12 +864,12 @@ As there are many, I highly encourage you to check my custom feeds:
 > \[!NOTE]
 > For more, visit my [macOS notes](https://pawelcislo.com/knowledge/macos/macos/).
 
-* [Zed](https://github.com/zed-industries/zed) ⭐ 91,461 | 🐛 3,068 | 🌐 Rust | 📅 2026-10-08 ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](https://pawelcislo.com/knowledge/software/zed/)
-* [lima](https://github.com/lima-vm/lima) ⭐ 22,051 | 🐛 510 | 🌐 Go | 📅 2026-10-08 ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
-* [mas](https://github.com/mas-cli/mas) ⭐ 12,380 | 🐛 90 | 🌐 Swift | 📅 2026-09-29 ← Mac App Store command line interface
+* [Zed](https://github.com/zed-industries/zed) ⭐ 91,501 | 🐛 2,996 | 🌐 Rust | 📅 2026-10-09 ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](https://pawelcislo.com/knowledge/software/zed/)
+* [lima](https://github.com/lima-vm/lima) ⭐ 22,058 | 🐛 511 | 🌐 Go | 📅 2026-10-09 ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
+* [mas](https://github.com/mas-cli/mas) ⭐ 12,379 | 🐛 90 | 🌐 Swift | 📅 2026-09-29 ← Mac App Store command line interface
 * [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,965 | 🐛 2 | 🌐 Objective-C | 📅 2026-08-30 ← show all open files, directories, sockets, pipes and devices in use by all running processes
-* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,362 | 🐛 144 | 🌐 Swift | 📅 2026-09-21 ← menu bar calendar
-* [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ⭐ 4,218 | 🐛 48 | 🌐 Swift | 📅 2026-08-03 ← invert scroll direction for mouse & trackpad
+* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,365 | 🐛 138 | 🌐 Swift | 📅 2026-10-09 ← menu bar calendar
+* [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ⭐ 4,219 | 🐛 48 | 🌐 Swift | 📅 2026-08-03 ← invert scroll direction for mouse & trackpad
 * [Ghostty](https://ghostty.org/) ← fast, native terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-10-01)
 * [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config) ⭐ 4 | 🐛 0 | 📅 2026-10-08)
 * [AirBuddy](https://v2.airbuddy.app/) ← control wireless devices
@@ -881,7 +881,7 @@ As there are many, I highly encourage you to check my custom feeds:
 * [BetterTouchTool](https://folivora.ai/) ← customize various input devices (you can find my settings [here](https://pawelcislo.com/knowledge/software/bettertouchtool/))
 * [BetterZip](https://macitbetter.com/) ← next generation of archiving
 * [CleanShot X](https://cleanshot.com/) ← screenshot tool
-  * [macshot](https://github.com/sw33tLie/macshot) ⭐ 3,711 | 🐛 147 | 🌐 Swift | 📅 2026-10-05 ← free open-source alternative
+  * [macshot](https://github.com/sw33tLie/macshot) ⭐ 3,732 | 🐛 148 | 🌐 Swift | 📅 2026-10-05 ← free open-source alternative
 * [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers
   * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ⚠️ Archived ← free alternative
 * [Ferdium](https://ferdium.org/) ← all the social apps in one place
@@ -936,7 +936,7 @@ As there are many, I highly encourage you to check my custom feeds:
 ### tools
 
 * [Desmos](https://www.desmos.com/calculator) ← graphing calculator. You can create visualisations close to 3blue1brown style (such as [\[1\]](https://www.desmos.com/calculator/p3cqhpvjld) or [\[2\]](https://www.desmos.com/calculator/pocv58hhrf))
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,764 | 🐛 502 | 🌐 Python | 📅 2026-09-09 ← generate explanatory animations for your math videos (created by [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw))
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,807 | 🐛 499 | 🌐 Python | 📅 2026-09-09 ← generate explanatory animations for your math videos (created by [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw))
 * [Mathway](https://www.mathway.com/Algebra) ← algebra problem solver
 * [Symbolab](https://www.symbolab.com/) ← step-by-step solver
 * [WolframAlpha](https://www.wolframalpha.com/) ← ultimate online calculator
@@ -948,13 +948,13 @@ As there are many, I highly encourage you to check my custom feeds:
 > \[!NOTE]
 > For more, visit my [Android notes](https://pawelcislo.com/knowledge/mobile/android/).
 
-* [Flutter](https://github.com/flutter/flutter) ⭐ 179,191 | 🐛 13,303 | 🌐 Dart | 📅 2026-10-08 ← build apps quick and easily
-* [YouTube ReVanced](https://github.com/ReVanced/revanced-manager) ⭐ 29,756 | 🐛 207 | 🌐 Kotlin | 📅 2026-07-29 ← official replacement for YouTube Vanced
-* [Seal](https://github.com/JunkFood02/Seal) ⭐ 29,549 | 🐛 733 | 🌐 Kotlin | 📅 2026-09-25 ← yt-dlp as an Android app
-* [MMKV](https://github.com/Tencent/MMKV) ⭐ 18,757 | 🐛 1 | 🌐 C++ | 📅 2026-10-08 ← efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android
-* [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) ⭐ 15,256 | 🐛 60 | 🌐 Python | 📅 2026-10-07 ← forensic tool to look for signs of infection in smartphone devices
+* [Flutter](https://github.com/flutter/flutter) ⭐ 179,213 | 🐛 13,302 | 🌐 Dart | 📅 2026-10-09 ← build apps quick and easily
+* [YouTube ReVanced](https://github.com/ReVanced/revanced-manager) ⭐ 29,775 | 🐛 207 | 🌐 Kotlin | 📅 2026-07-29 ← official replacement for YouTube Vanced
+* [Seal](https://github.com/JunkFood02/Seal) ⭐ 29,589 | 🐛 733 | 🌐 Kotlin | 📅 2026-09-25 ← yt-dlp as an Android app
+* [MMKV](https://github.com/Tencent/MMKV) ⭐ 18,758 | 🐛 1 | 🌐 C++ | 📅 2026-10-08 ← efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android
+* [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) ⭐ 15,265 | 🐛 61 | 🌐 Python | 📅 2026-10-09 ← forensic tool to look for signs of infection in smartphone devices
 * [MACE](https://github.com/XiaoMi/mace) ⭐ 5,053 | 🐛 62 | 🌐 C++ | 📅 2024-06-17 ← mobile AI compute engine (deep learning inference framework optimized for mobile heterogeneous computing platforms)
-* [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ⭐ 4,308 | 🐛 9 | 🌐 Shell | 📅 2026-10-07 ← run a Linux distribution or application on Android (without root)
+* [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ⭐ 4,308 | 🐛 7 | 🌐 Shell | 📅 2026-10-09 ← run a Linux distribution or application on Android (without root)
 * [Tool-X](https://github.com/Mikaelson-1/Rajkumardusad-) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2020-05-05 ← kali linux hacking Tool installer (requires Termux)
 * [Paprika](https://github.com/GeoffreyHecht/paprika) ⭐ 74 | 🐛 2 | 🌐 Java | 📅 2019-07-23 ← toolkit to detect some code smells in analysed Android applications
 * [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards) ⭐ 41 | 🐛 0 | 📅 2023-04-03
@@ -1065,7 +1065,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### tools
 
-* [Spleeter](https://github.com/deezer/spleeter) ⭐ 28,479 | 🐛 279 | 🌐 Python | 📅 2026-06-18 ← extract acapella from the song using AI ([demonstration video](https://youtu.be/JIR6HJISrtY?si=IBaDlkAyzKlbkmQq))
+* [Spleeter](https://github.com/deezer/spleeter) ⭐ 28,477 | 🐛 279 | 🌐 Python | 📅 2026-06-18 ← extract acapella from the song using AI ([demonstration video](https://youtu.be/JIR6HJISrtY?si=IBaDlkAyzKlbkmQq))
 * [DeepJ](https://github.com/calclavia/DeepJ) ⭐ 744 | 🐛 17 | 🌐 Python | 📅 2018-09-30 ← AI to compose piano music in real-time
 * [alda](https://alda.io/) ← text-based programming language for music composition
 * [Bongo Cat](https://bongo.cat/) ← hit the bongos like Bongo Cat!
@@ -1085,8 +1085,8 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ## 📧 Newsletters
 
-* [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,497 | 🐛 52 | 📅 2026-10-01 ← curated list of awesome newsletters
-* [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) ⭐ 3,016 | 🐛 108 | 🌐 HTML | 📅 2025-11-23 ← subscribe to weekly/daily sets of trending repositories from different languages
+* [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,498 | 🐛 52 | 📅 2026-10-01 ← curated list of awesome newsletters
+* [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) ⭐ 3,017 | 🐛 109 | 🌐 HTML | 📅 2025-11-23 ← subscribe to weekly/daily sets of trending repositories from different languages
 * [AI News](https://buttondown.email/ainews) ← daily summary of AI discords + top Twitter accounts
 * [Bullets.news](https://bullets.news/) ← scientific papers summarized in a few bullet points
 * [Dane i Analizy](https://blog.prokulski.science/) (🇵🇱) ← ML, AI, devops, data analysis, Python and R
@@ -1207,7 +1207,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ## ⏲ Productivity
 
-* [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,130 | 🐛 196 | 🌐 Python | 📅 2026-10-08 ← open-source time tracker (alternative to RescueTime)
+* [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,156 | 🐛 195 | 🌐 Python | 📅 2026-10-08 ← open-source time tracker (alternative to RescueTime)
 * [Box Breathing Exercise](https://breathe.vividwell.com/) ← take a break, breathe and calm down
 * [DeepL](https://www.deepl.com/translator) ← AI based translator (imho, better than Google Translate)
 * [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) ← quick read on how to be effective and get things done
@@ -1261,7 +1261,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### IDE
 
-* [Zed](https://github.com/zed-industries/zed) ⭐ 91,461 | 🐛 3,068 | 🌐 Rust | 📅 2026-10-08 ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](https://pawelcislo.com/knowledge/software/zed/)
+* [Zed](https://github.com/zed-industries/zed) ⭐ 91,501 | 🐛 2,996 | 🌐 Rust | 📅 2026-10-09 ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](https://pawelcislo.com/knowledge/software/zed/)
 * [Anaconda](https://www.anaconda.com/download) ← most popular Python/R Data Science platform, which lets you install and manage all of the following tools:
   * [Jupyter Notebook](https://jupyter.org/) ← good choice for the beginning and the reason for maintaining well-documented code
   * [Spyder](https://www.spyder-ide.org/) ← Python IDE
@@ -1281,7 +1281,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 #### devops/mlops
 
-* [curlconverter](https://github.com/curlconverter/curlconverter) ⭐ 8,174 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10 ← generate code from cURL commands
+* [curlconverter](https://github.com/curlconverter/curlconverter) ⭐ 8,173 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10 ← generate code from cURL commands
 * [contains.dev](https://contains.dev/) ← explore Docker image files, layers and dependencies
 * [Hoppscotch](https://hoppscotch.io/) ← open-source API dev ecosystem
 
@@ -1328,12 +1328,12 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### websites to study from
 
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,971 | 🐛 673 | 🌐 Markdown | 📅 2026-07-14 ← resources to start developing your first website, database; you name it
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 362,324 | 🐛 127 | 📅 2025-08-28 ← complete computer science study plan to become a software engineer
-* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,652 | 🐛 411 | 🌐 JavaScript | 📅 2026-07-26 ← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
-* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,525 | 🐛 28 | 📅 2025-12-29 ← collection of (mostly) technical things every software developer should know
-* [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,338 | 🐛 56 | 📅 2026-06-17 ← find even more resources to learn software engineering
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,160 | 🐛 8 | 📅 2026-09-23 ← curated list of games that can teach you how to learn a programming language
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 552,163 | 🐛 674 | 🌐 Markdown | 📅 2026-07-14 ← resources to start developing your first website, database; you name it
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 362,344 | 🐛 127 | 📅 2025-08-28 ← complete computer science study plan to become a software engineer
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,658 | 🐛 411 | 🌐 JavaScript | 📅 2026-07-26 ← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,527 | 🐛 28 | 📅 2025-12-29 ← collection of (mostly) technical things every software developer should know
+* [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,344 | 🐛 57 | 📅 2026-06-17 ← find even more resources to learn software engineering
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,161 | 🐛 8 | 📅 2026-09-23 ← curated list of games that can teach you how to learn a programming language
 * [30 seconds of code](https://www.30secondsofcode.org/) ← collection of useful snippets in multiple languages, which you can understand in 30 seconds or less
 * [Code Club](https://codeclubprojects.org/en-GB/python/) ← find ideas for your Python projects
 * [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ← interactive visualisation for most data structures
@@ -1388,21 +1388,21 @@ As there are many, I highly encourage you to check my custom feeds:
 > \[!NOTE]
 > For more, visit my [Windows notes](https://pawelcislo.com/knowledge/windows/windows/).
 
-* [PowerToys](https://github.com/microsoft/PowerToys) ⭐ 139,127 | 🐛 7,734 | 🌐 C | 📅 2026-10-08 ← Windows system utilities to maximize productivity
-* [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,107 | 🐛 1,772 | 🌐 C++ | 📅 2026-10-08 ← modern terminal application (you can find my settings [here](https://github.com/pyxelr/my-terminal) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-10-01)
-* [Oh My Posh](https://ohmyposh.dev/) ← prompt theme engine for any shell. Alternatively, use [Starship](https://github.com/starship/starship) ⭐ 60,186 | 🐛 1,062 | 🌐 Rust | 📅 2026-10-08
-* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ⭐ 34,048 | 🐛 377 | 🌐 C | 📅 2026-07-06 ← enhance the working environment on Windows
-* [QuickLook](https://github.com/QL-Win/QuickLook) ⭐ 25,204 | 🐛 212 | 🌐 C# | 📅 2026-10-07 ← bring macOS "Quick Look" feature to Windows
-* [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ⭐ 14,868 | 🐛 27 | 🌐 C# | 📅 2026-10-07 ← Everything integration for the Windows taskbar
-* [WSLg](https://github.com/microsoft/wslg) ⭐ 11,945 | 🐛 723 | 🌐 C++ | 📅 2026-07-06 ← open GUI software through WSL
-* [simplewall](https://github.com/henrypp/simplewall) ⭐ 9,116 | 🐛 142 | 🌐 C | 📅 2026-10-01 ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
+* [PowerToys](https://github.com/microsoft/PowerToys) ⭐ 139,145 | 🐛 7,741 | 🌐 C | 📅 2026-10-09 ← Windows system utilities to maximize productivity
+* [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,115 | 🐛 1,775 | 🌐 C++ | 📅 2026-10-09 ← modern terminal application (you can find my settings [here](https://github.com/pyxelr/my-terminal) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-10-01)
+* [Oh My Posh](https://ohmyposh.dev/) ← prompt theme engine for any shell. Alternatively, use [Starship](https://github.com/starship/starship) ⭐ 60,194 | 🐛 1,061 | 🌐 Rust | 📅 2026-10-09
+* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ⭐ 34,053 | 🐛 377 | 🌐 C | 📅 2026-07-06 ← enhance the working environment on Windows
+* [QuickLook](https://github.com/QL-Win/QuickLook) ⭐ 25,230 | 🐛 212 | 🌐 C# | 📅 2026-10-07 ← bring macOS "Quick Look" feature to Windows
+* [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ⭐ 14,882 | 🐛 27 | 🌐 C# | 📅 2026-10-08 ← Everything integration for the Windows taskbar
+* [WSLg](https://github.com/microsoft/wslg) ⭐ 11,945 | 🐛 724 | 🌐 C++ | 📅 2026-07-06 ← open GUI software through WSL
+* [simplewall](https://github.com/henrypp/simplewall) ⭐ 9,124 | 🐛 142 | 🌐 C | 📅 2026-10-01 ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
 * [Posh-Git](https://github.com/dahlbyk/posh-git) ⭐ 8,273 | 🐛 118 | 🌐 PowerShell | 📅 2024-09-02 ← PowerShell environment for Git
 * [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) ⚠️ Archived ← center Windows taskbar icons with a variety of animations and options
 * [gsudo](https://github.com/gerardog/gsudo) ⭐ 6,064 | 🐛 51 | 🌐 C# | 📅 2026-08-12 ← sudo for Windows
-* [clink](https://github.com/chrisant996/clink) ⭐ 5,527 | 🐛 2 | 🌐 C++ | 📅 2026-10-08 ← Bash's powerful command line editing in cmd.exe
-* [Supermium](https://github.com/win32ss/supermium) ⭐ 4,810 | 🐛 906 | 📅 2026-10-01 ← Chromium fork for older Windows versions
-* [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) ⭐ 4,009 | 🐛 176 | 🌐 C++ | 📅 2026-08-18 ← map keyboard buttons and mouse controls to a gamepad
-* [UpdateHub](https://github.com/NexovaDev/UpdateHub) ⭐ 842 | 🐛 1,473 | 📅 2026-06-07 ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
+* [clink](https://github.com/chrisant996/clink) ⭐ 5,529 | 🐛 2 | 🌐 C++ | 📅 2026-10-09 ← Bash's powerful command line editing in cmd.exe
+* [Supermium](https://github.com/win32ss/supermium) ⭐ 4,814 | 🐛 906 | 📅 2026-10-09 ← Chromium fork for older Windows versions
+* [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) ⭐ 4,010 | 🐛 176 | 🌐 C++ | 📅 2026-08-18 ← map keyboard buttons and mouse controls to a gamepad
+* [UpdateHub](https://github.com/NexovaDev/UpdateHub) ⭐ 842 | 🐛 1,475 | 📅 2026-06-07 ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
 * [wsl-vpn](https://github.com/AmmarRahman/wsl-vpn) ⭐ 139 | 🐛 6 | 🌐 Shell | 📅 2023-03-08 ← workaround script for WSL2 connectivity over VPN
 * [AutoHotkey](https://www.autohotkey.com/) ← ultimate automation scripting language for Windows ([here](https://github.com/pyxelr/my-autohotkey-scripts) ⭐ 5 | 🐛 0 | 🌐 AutoHotkey | 📅 2024-01-07 is a collection of my scripts)
 * [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config) ⭐ 4 | 🐛 0 | 📅 2026-10-08)
@@ -1661,11 +1661,11 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ## 🤷 Other
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 516,251 | 🐛 106 | 📅 2026-09-02 ← GitHub repository with lists on all kinds of interesting topics
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 516,667 | 🐛 106 | 📅 2026-09-02 ← GitHub repository with lists on all kinds of interesting topics
   * [Awesome Search](https://awesomelists.top/) ← search all awesome lists in one second
   * [List.community](https://list.community/) ← better graphical form of Awesome
-* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 151,536 | 🐛 2,920 | 🌐 C | 📅 2026-10-08 ← display and control Android devices connected on USB
-* [windows95](https://github.com/felixrieseberg/windows95) ⭐ 24,247 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-11 ← Windows 95 running in the Electron app
+* [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 151,685 | 🐛 2,921 | 🌐 C | 📅 2026-10-08 ← display and control Android devices connected on USB
+* [windows95](https://github.com/felixrieseberg/windows95) ⭐ 24,248 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-11 ← Windows 95 running in the Electron app
 * [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) ⭐ 3,387 | 🐛 0 | 📅 2026-09-19 ← list of student discounts for learning & development
 * [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) ← check what Earth looked like x years ago
 * [Buoy](https://www.buoyhealth.com/symptom-checker/) ← check your symptoms with an online AI assistant
@@ -1695,4 +1695,4 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
